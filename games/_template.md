@@ -1,4 +1,5 @@
-= Name =
+Name 
+===============================================================================
 * Play links: http://something.com
 * Info links:
 * Authors:
@@ -7,12 +8,16 @@
   * Public access:
   * Started: 
 
-= Patterns =
+Patterns 
+===============================================================================
 * Related to game type
 * Related to game play
 * Generic like Resources, Classes
 
-= Lists =
+Lists 
+===============================================================================
 * Items
 
-= Stats =
+Stats
+===============================================================================
+E.g. number of downloads, etc. 
