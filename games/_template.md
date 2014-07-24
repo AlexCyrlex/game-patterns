@@ -13,9 +13,9 @@ Name
 
 Patterns 
 ===============================================================================
-* <Related to game type>
-* <Related to game play>
-* <Generic like Resources, Classes>
+* _Related to game type_
+* _Related to game play_
+* _Generic like Resources, Classes_
 
 Lists 
 ===============================================================================
