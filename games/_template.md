@@ -2,17 +2,20 @@ Name
 ===============================================================================
 * Play links: http://something.com
 * Info links:
-* Authors:
-* Tech: Flash HTML5/Canvas HTML Unity
+* Screenshots:
+* Videos:
+* Created by:
+* Tech: Flash HTML5/Canvas HTML Unity Native
 * Dates:
-  * Public access:
-  * Started: 
+  * Public access: 
+  * Started:
+  * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Related to game type
-* Related to game play
-* Generic like Resources, Classes
+* <Related to game type>
+* <Related to game play>
+* <Generic like Resources, Classes>
 
 Lists 
 ===============================================================================
