@@ -8,8 +8,8 @@ Dark Souls
 * Tech: Native
 * Dates:
   * Public access:
-   * PlayStation 3 & Xbox 360: JP September 22, 2011 (PS3) - NA October 4, 2011 - AU October 6, 2011 - EU October 30, 2011
-   * Microsoft Windows: AU August 23, 2012 - NA August 24, 2012 - EU August 24, 2012 - JP October 25, 2012
+    * PlayStation 3 & Xbox 360: JP September 22, 2011 (PS3) - NA October 4, 2011 - AU October 6, 2011 - EU October 30, 2011
+    * Microsoft Windows: AU August 23, 2012 - NA August 24, 2012 - EU August 24, 2012 - JP October 25, 2012
   * Started:
   * Closed: still active 
 
