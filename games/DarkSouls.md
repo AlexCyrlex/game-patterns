@@ -21,7 +21,7 @@ Patterns
 * Shield Blocking
 * Durability
 * 2-in-1 Resource
- * XP = Money
+ * XP and Money (Souls)
 * _Generic like Resources, Classes_
 
 Lists 

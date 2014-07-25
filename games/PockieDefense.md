@@ -19,7 +19,7 @@ Patterns
 * Hero Lottery
 * Ladder PvP
 * 2-in-1 Units
-* Combat: Auto, M*N, Queue/Player, Pre-battle Placement
+* Combat: Auto, M*N, Queue/Player, Placement = Pre-battle 
 * Cooldown + Daily Limit + Daily Actions
 * Cumulative Cooldown
 * Progress on Map
