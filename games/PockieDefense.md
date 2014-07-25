@@ -18,6 +18,8 @@ Patterns
 * Collect Units
 * Hero Lottery
 * Ladder PvP
+* 2-in-1 Units
+* Combat: Auto, M*N, Queue/Player, Pre-battle Placement
 * Cooldown + Daily Limit + Daily Actions
 * Cumulative Cooldown
 * Progress on Map
