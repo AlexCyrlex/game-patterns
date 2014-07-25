@@ -14,9 +14,10 @@ Under Fire
 Patterns 
 ===============================================================================
 * Drop and Attack
-  * Drop-points: Fixed, Attack + Defense, Defense Towers - invulnerable, reset
+  * Drop-points: Fixed, Attack + Defense
   * Skills: Items + Cooldown  
   * Recover: Never (units), Always (heroes)
+  * Disable: HP - Remove (units), Time - Activate + Cooldown (turrets)
 * Build City
 * _Related to game play_
 * _Generic like Resources, Classes_
