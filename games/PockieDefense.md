@@ -26,6 +26,8 @@ Patterns
 * Auto-repeat Completed
 * Merge Parts
 * Merge Items
+* Consume Units
+* Limited Collection Inventory
 * XP Only from Training
 * VIP for Paying
 * Pay to Use
