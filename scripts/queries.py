@@ -1,4 +1,5 @@
 import re
+import os
 
 H1_LINE = re.compile('^=+$')
 LIST_START = re.compile(r'^(\s*)\* (.*)$')
@@ -47,7 +48,9 @@ def parse_md(filename):
           entry[1] = line
     return result      
 
-print parse_md('../games/UnderFire.md')
+all_games = [parse_md('../games/'+x) for x in os.listdir('../games') if not x.startswith('_')]
+
+print all_games
 
             
           
