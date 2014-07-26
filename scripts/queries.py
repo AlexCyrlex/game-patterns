@@ -48,7 +48,24 @@ def parse_md(filename):
           entry[1] = line
     return result      
 
-all_games = [parse_md('../games/'+x) for x in os.listdir('../games') if not x.startswith('_')]
+def convert_game(md):
+  """ Convert game data from generic MD list to more specific dict
+  """
+  result = {}
+  [name, description, items] = md[0]
+  result['Name'] = name
+  if description:
+    result['Description'] = description
+  for item in items:
+    result[item['key']] = item['value'], item['items']
+  for item in md[1:]:
+    [name, value, items] = item
+    result[name] = value, items
+  return result
+  
+
+
+all_games = [convert_game(parse_md('../games/'+x)) for x in os.listdir('../games') if not x.startswith('_')]
 
 print all_games
 
