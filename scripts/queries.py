@@ -62,13 +62,21 @@ def convert_game(md):
     [name, value, items] = item
     result[name] = value, items
   return result
-  
+
+def generate_game_list(all_games):
+    with open('../generated/AllGames.md', 'w') as fo:
+      fo.write('All Games\n=========\nThis file is auto-generated; do not edit\n')
+      for game in all_games:
+        fo.write('* %s %s\n'% (game['Name'], game['Play Links'][0]))
+        fo.write('  * %s\n' % game['Info Links'][0])
+        patterns = ', '.join(x['key'] for x in game['Patterns'][1])
+        fo.write('  * Patterns: %s\n' % patterns) 
 
 
 all_games = [convert_game(parse_md('../games/'+x)) for x in os.listdir('../games') if not x.startswith('_')]
 
 print all_games
-
+generate_game_list(all_games)
             
           
           
