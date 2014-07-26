@@ -1,13 +1,13 @@
 Under Fire 
 ===============================================================================
-* Play links: https://apps.facebook.com/under-fire/
-* Info links: https://www.facebook.com/underfiregame - http://under-fire.wikia.com/wiki/Under-fire_Wiki
+* Play Links: https://apps.facebook.com/under-fire/
+* Info Links: https://www.facebook.com/underfiregame - http://under-fire.wikia.com/wiki/Under-fire_Wiki
 * Screenshots:
 * Videos:
 * Created by: RJ Games
 * Tech: Flash
 * Dates:
-  * Public access: 
+  * Public Access: 
   * Started:
   * Closed: still active 
 

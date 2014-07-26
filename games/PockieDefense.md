@@ -1,14 +1,14 @@
 Pockie Defense 
 ===============================================================================
-* Play links: https://apps.facebook.com/pockie-defense/ - http://defense.game321.com/
-* Info links: https://www.facebook.com/PockieDefenseGame - http://forums.game321.com/index.php?gid=47 - http://p-defense.wikia.com/wiki/Pockie_Defense_Wiki - http://pockiedefense.wikia.com/wiki/PockieDefense_Wiki
+* Play Links: https://apps.facebook.com/pockie-defense/ - http://defense.game321.com/
+* Info Links: https://www.facebook.com/PockieDefenseGame - http://forums.game321.com/index.php?gid=47 - http://p-defense.wikia.com/wiki/Pockie_Defense_Wiki - http://pockiedefense.wikia.com/wiki/PockieDefense_Wiki
 * Screenshots:
 * Videos:
 * Created by: Game321
 * Tech: Flash
 * Dates:
   * Close Beta: 2013.12.04 http://defense.game321.com/information/notices/4794.shtml
-  * Public access: 2013.12.11 http://defense.game321.com/information/notices/4831.shtml
+  * Public Access: 2013.12.11 http://defense.game321.com/information/notices/4831.shtml
   * Started:
   * Closed: still active 
 

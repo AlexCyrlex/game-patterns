@@ -1,13 +1,13 @@
 Name 
 ===============================================================================
-* Play links: http://something.com
-* Info links:
+* Play Links: http://something.com
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native
 * Dates:
-  * Public access: 
+  * Public Access: 
   * Started:
   * Closed: still active 
 
