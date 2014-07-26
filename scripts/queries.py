@@ -69,7 +69,7 @@ def generate_game_list(all_games):
       for game in all_games:
         fo.write('* %s %s\n'% (game['Name'], game['Play Links'][0]))
         fo.write('  * %s\n' % game['Info Links'][0])
-        patterns = ', '.join(x['key'] for x in game['Patterns'][1])
+        patterns = ', '.join(x['key'] for x in game['Patterns'][1] if not x['key'].startswith('_'))
         fo.write('  * Patterns: %s\n' % patterns) 
 
 
