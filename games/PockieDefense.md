@@ -28,6 +28,7 @@ Patterns
 * Merge Items
 * Consume Units
 * Limited Collection Inventory
+* Colored Tiers
 * XP Only from Training
 * VIP for Paying
 * Pay to Use
