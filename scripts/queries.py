@@ -65,13 +65,40 @@ def convert_game(md):
   return result
 
 def generate_game_list(all_games):
-    with open('../generated/AllGames.md', 'w') as fo:
-      fo.write('All Games\n=========\nThis file is auto-generated; do not edit\n')
-      for game in all_games:
-        fo.write('* %s %s\n'% (game['Name'], game['Play Links'][0]))
-        fo.write('  * %s\n' % game['Info Links'][0])
-        patterns = ', '.join(x['key'] for x in game['Patterns'][1] if not x['key'].startswith('_'))
-        fo.write('  * Patterns: %s\n' % patterns) 
+  with open('../generated/AllGames.md', 'w') as fo:
+    fo.write('All Games\n=========\nThis file is auto-generated; do not edit\n')
+    for game in all_games:
+      fo.write('* %s %s\n'% (game['Name'], game['Play Links'][0]))
+      fo.write('  * %s\n' % game['Info Links'][0])
+      patterns = ', '.join(x['key'] for x in game['Patterns'][1] if not x['key'].startswith('_'))
+      fo.write('  * Patterns: %s\n' % patterns) 
+
+def _add_pattern(pat, pat_dict, names, plus_checked = False, key = None):
+  if key is None:
+    key = pat['key']
+    if key[0] == '_':
+      return False
+
+  if not plus_checked:
+    parts = key.split('+')
+    if len(parts)>1:
+      for part in parts:
+        _add_pattern(pat,pat_dict,names,plus_checked = True, key = part.strip())
+      return False 
+  
+  if key in names:
+    return False
+
+  if key not in pat_dict:
+    subpat = []
+    pat_dict[key] = subpat
+  else:
+    subpat = pat_dict[key]
+  val = pat.get('value',None)
+  if val:
+    subpat.append({'key': val, 'items':[]})
+  subpat.extend(pat['items'])
+
 
 def extract_new_patterns(all_games):
   patterns = parse_md('../patterns.md')
@@ -79,18 +106,7 @@ def extract_new_patterns(all_games):
   pat_dict = OrderedDict()
   for game in all_games:
     for pat in game['Patterns'][1]:
-      key = pat['key']
-      if key in names:
-        continue
-      if key not in pat_dict:
-        subpat = []
-        pat_dict[key] = subpat
-      else:
-        subpat = pat_dict[key]
-      val = pat.get('value',None)
-      if val:
-        subpat.append({'key': val, 'items':[]})
-      subpat.extend(pat['items'])
+      _add_pattern(pat, pat_dict, names)
   print pat_dict
       
 
