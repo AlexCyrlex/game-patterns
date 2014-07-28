@@ -3,6 +3,5 @@ _Name_
 Description here
 * _Subpatterns_
 
-Implies
-------------------------------------------------------------------------
+###### Implies
 * _Other patterns_
