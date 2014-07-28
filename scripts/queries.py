@@ -1,5 +1,6 @@
 import re
 import os
+from collections import OrderedDict
 
 H1_LINE = re.compile('^=+$')
 LIST_START = re.compile(r'^(\s*)\* (.*)$')
@@ -72,12 +73,33 @@ def generate_game_list(all_games):
         patterns = ', '.join(x['key'] for x in game['Patterns'][1] if not x['key'].startswith('_'))
         fo.write('  * Patterns: %s\n' % patterns) 
 
+def extract_new_patterns(all_games):
+  patterns = parse_md('../patterns.md')
+  names = {x[0] for x in patterns}
+  pat_dict = OrderedDict()
+  for game in all_games:
+    for pat in game['Patterns'][1]:
+      key = pat['key']
+      if key in names:
+        continue
+      if key not in pat_dict:
+        subpat = []
+        pat_dict[key] = subpat
+      else:
+        subpat = pat_dict[key]
+      val = pat.get('value',None)
+      if val:
+        subpat.append({'key': val, 'items':[]})
+      subpat.extend(pat['items'])
+  print pat_dict
+      
+
 
 all_games = [convert_game(parse_md('../games/'+x)) for x in os.listdir('../games') if not x.startswith('_')]
 
-print all_games
+# print all_games
 generate_game_list(all_games)
-            
+extract_new_patterns(all_games)       
           
           
         
