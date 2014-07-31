@@ -107,9 +107,24 @@ def extract_new_patterns(all_games):
   for game in all_games:
     for pat in game['Patterns'][1]:
       _add_pattern(pat, pat_dict, names)
-  print pat_dict
+  # print pat_dict
+  with open('../_pattern.md','r') as tfile:
+    template = tfile.read()
+    print template
+  for key, val in pat_dict.iteritems():
+    print key
+    print '='*10
+    print unparse_list(val)
       
-
+def unparse_list(lst, indent = 0):
+  result = ''
+  for item in lst:
+    result += ' '* (2*indent) + '* '+ item['key']+'\n'
+    if item['items']:
+      result += unparse_list(item['items'],indent+1)
+  if not result:
+    result = '* _Subpatterns_\n'
+  return result
 
 all_games = [convert_game(parse_md('../games/'+x)) for x in os.listdir('../games') if not x.startswith('_')]
 
