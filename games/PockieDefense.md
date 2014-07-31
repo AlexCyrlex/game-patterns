@@ -24,6 +24,9 @@ Patterns
 * Cumulative Cooldown
 * Progress on Map
 * Auto-repeat Completed
+* Equipment
+  * Weapon, Armor, Head, Gloves, Necklace
+* Bonus Slots
 * Merge Parts
 * Merge Items
 * Consume Units
