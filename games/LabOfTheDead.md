@@ -16,6 +16,8 @@ Patterns
 * !New ideas!
 * Research
 * Manage Many Variables
+* Switchable Action
+* Actions Unlock More Actions
 * Unlock Story Parts
 * _Generic like Resources, Classes_
 

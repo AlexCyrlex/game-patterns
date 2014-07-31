@@ -15,7 +15,7 @@ Dark Souls
 
 Patterns 
 ===============================================================================
-* Action
+* Action Game
 * RPG
 * Death Penalty
 * Shield Blocking
