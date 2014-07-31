@@ -108,15 +108,17 @@ def extract_new_patterns(all_games):
   for game in all_games:
     for pat in game['Patterns'][1]:
       _add_pattern(pat, pat_dict, names)
-
+  if len(pat_dict) == 0:
+    return
   with open('../_pattern.md','r') as tfile:
     template = tfile.read()
   with open('../patterns.md','a') as pfile:
-    pfile.write('# auto-extracted on %s\n\n' % strftime("%Y-%m-%d %H:%M:%S", localtime()))
+    pfile.write('# __auto-extracted on %s__\n\n' % strftime("%Y-%m-%d %H:%M:%S", localtime()))
     for key, val in pat_dict.iteritems():
       result = template.replace('_Name_', key)
       result = result.replace('* _Subpatterns_\n',unparse_list(val)) 
       pfile.write(result + '\n')
+      print result
 
 def unparse_list(lst, indent = 0):
   result = ''
