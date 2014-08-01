@@ -20,7 +20,8 @@ Patterns
   * Disable: HP - Remove (units), Time - Activate + Cooldown (turrets)
 * Build City
 * _Related to game play_
-* _Generic like Resources, Classes_
+* XP Level
+  * On Levelup: items
 
 Lists 
 ===============================================================================

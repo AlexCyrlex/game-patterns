@@ -22,7 +22,8 @@ Patterns
 * Durability
 * 2-in-1 Resource
   * XP and Money (Souls)
-* _Generic like Resources, Classes_
+* XP Level
+* Sum of Stats Level
 
 Lists 
 ===============================================================================

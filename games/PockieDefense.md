@@ -35,6 +35,7 @@ Patterns
 * XP Only from Training
 * VIP for Paying
 * Pay to Use
+* Speedup Resource
 * Servers
   * S9 Rusalochka, S8 The Frog Prince, S7 Thumbelina, S6 Cinderella, S5 Bearded Captain, S4 Little Mermaid, S3 Card Army, S2 Dwarf Castle, S1 Fairy Forest
 * Classes
@@ -42,6 +43,15 @@ Patterns
   * Gunner - Physical, AoE
   * Mage - Magic, Single
   * Sage - Magic, AoE
+* Energy
+  * PVE: max 15, recover 1/30m
+  * PVP: max 15, recover 1/30m
+* Currency
+  * Common: Silver, Prestige
+  * Premium: Gold
+  * PVP: Honor, Keys
+* XP Level
+* Game Level
 
 Lists 
 ===============================================================================
