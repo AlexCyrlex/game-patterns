@@ -326,3 +326,188 @@ Description here
 ###### Implies
 * _Other patterns_
 
+# __auto-extracted on 2014-08-01 15:10:46__
+
+XP Level
+========================================================================
+Description here
+* On Levelup: Energy Refill, Premium
+* Level Effects: Max Energy, Unlock
+* On Levelup: items
+
+###### Implies
+* _Other patterns_
+
+Sum of Stats Level
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Farming
+========================================================================
+Description here
+* Plants
+* Trees
+* Animals
+* Decorations
+
+###### Implies
+* _Other patterns_
+
+Trapping
+========================================================================
+Description here
+* Cooldown: 15m
+* Auto Catch: 1h, max 24
+* Trap: Type, Strength, Speed, Tech
+* Bait: Each Monster
+
+###### Implies
+* _Other patterns_
+
+Fishing
+========================================================================
+Description here
+* Bait: Many Monsters
+
+###### Implies
+* _Other patterns_
+
+Gathering
+========================================================================
+Description here
+* Wild Plants
+* Mines
+* Wood Trees
+* Fruit Trees
+* Butterflies
+
+###### Implies
+* _Other patterns_
+
+Crafting
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Food
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Real World Map
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Travel
+========================================================================
+Description here
+* Spend: Energy / Distance from current location
+* Free: Cities (London, Nanjing), Quest location, Trap location, House, Friend's House
+
+###### Implies
+* _Other patterns_
+
+Daily Reward
+========================================================================
+Description here
+* Repeat: 5 days, Loop, Better Rewards
+* Repeat: 5 days, Max, Trap Power Bonus
+
+###### Implies
+* _Other patterns_
+
+Lottery
+========================================================================
+Description here
+* Spend: Bronze,Silver,Gold Coins
+
+###### Implies
+* _Other patterns_
+
+Plot
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Quest Lines
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Unreleased Preview
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Items List
+========================================================================
+Description here
+* Bestiary
+* Recipes
+* Items
+
+###### Implies
+* _Other patterns_
+
+Speedup Resource
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Energy
+========================================================================
+Description here
+* PVE: max grows with level, 1/3m (was 1/30m)
+* PVE: max 15, recover 1/30m
+* PVP: max 15, recover 1/30m
+
+###### Implies
+* _Other patterns_
+
+Currency
+========================================================================
+Description here
+* Common: Gold
+* Premium: Banknotes
+* Free Premium: Daily Reward (day 5), On Levelup
+* Common: Silver, Prestige
+* Premium: Gold
+* PVP: Honor, Keys
+
+###### Implies
+* _Other patterns_
+
+Game Level
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
