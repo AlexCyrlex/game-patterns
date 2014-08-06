@@ -42,6 +42,7 @@ Patterns
   * Repeat: 5 days, Max, Trap Power Bonus
 * Lottery
   * Spend: Bronze,Silver,Gold Coins
+* Inventory Limit
 * Plot
 * Quest Lines
 * Unreleased Preview

@@ -35,6 +35,7 @@ Patterns
 * XP Only from Training
 * VIP for Paying
 * Pay to Use
+* Buy Now Use Later
 * Speedup Resource
 * Servers
   * S9 Rusalochka, S8 The Frog Prince, S7 Thumbelina, S6 Cinderella, S5 Bearded Captain, S4 Little Mermaid, S3 Card Army, S2 Dwarf Castle, S1 Fairy Forest
