@@ -511,3 +511,46 @@ Description here
 ###### Implies
 * _Other patterns_
 
+# __auto-extracted on 2014-08-10 15:29:38__
+
+CCG
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Ladder PVP
+========================================================================
+Description here
+* Target List: Up, -1000 step 200
+* Target List: Up, -10
+
+###### Implies
+* _Other patterns_
+
+Inventory Limit
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Friends Limit
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Buy Now Use Later
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
