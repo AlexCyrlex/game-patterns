@@ -51,6 +51,7 @@ Patterns
   * Recipes
   * Items
 * Speedup Resource
+* Friends Limit
 * Energy
   * PVE: max grows with level, 1/3m (was 1/30m)
 * XP Level

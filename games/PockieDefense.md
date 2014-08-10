@@ -17,7 +17,8 @@ Patterns
 * Tower Defense
 * Collect Units
 * Hero Lottery
-* Ladder PvP
+* Ladder PVP
+  * Target List: Up, -10
 * 2-in-1 Units
 * Combat: Auto, M*N, Queue/Player, Placement = Pre-battle 
 * Cooldown + Daily Limit + Daily Actions

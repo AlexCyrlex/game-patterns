@@ -17,6 +17,9 @@ Patterns
 * XP Only from Training
 * Merge Parts
 * Consume Units
+* Ladder PVP
+  * Target List: Up, -1000 step 200
+* Daily Limit
 * _Generic like Resources, Classes_
 
 Lists 
