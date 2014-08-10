@@ -14,6 +14,7 @@ Pockie Defense
 
 Patterns 
 ===============================================================================
+* Theme: Fairy Tales
 * Tower Defense
 * Collect Units
 * Hero Lottery

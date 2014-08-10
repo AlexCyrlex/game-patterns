@@ -13,6 +13,7 @@ Under Fire
 
 Patterns 
 ===============================================================================
+* Theme: Sci-Fi, Planet Colonies, Warhammer 40k
 * Drop and Attack
   * Drop-points: Fixed, Attack + Defense
   * Skills: Items + Cooldown  

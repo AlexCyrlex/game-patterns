@@ -13,6 +13,7 @@ Name
 
 Patterns 
 ===============================================================================
+* Theme: 
 * _Related to game type_
 * _Related to game play_
 * _Generic like Resources, Classes_

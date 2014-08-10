@@ -15,6 +15,7 @@ Dark Souls
 
 Patterns 
 ===============================================================================
+* Theme: Fantasy, Undead
 * Action Game
 * RPG
 * Death Penalty

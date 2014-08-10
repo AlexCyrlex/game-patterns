@@ -14,6 +14,7 @@ Lab of the Dead
 Patterns 
 ===============================================================================
 * !New ideas!
+* Theme: Zombie Apocalypse
 * Research
 * Manage Many Variables
 * Switchable Action

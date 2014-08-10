@@ -13,6 +13,7 @@ Name
 
 Patterns 
 ===============================================================================
+* Theme: Fantasy 
 * CCG
 * XP Only from Training
 * Merge Parts

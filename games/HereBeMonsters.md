@@ -13,6 +13,7 @@ Here Be Monsters
 
 Patterns 
 ===============================================================================
+* Theme: Fantasy
 * Farming
   * Plants
   * Trees
