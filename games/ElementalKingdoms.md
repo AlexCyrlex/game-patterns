@@ -15,9 +15,12 @@ Patterns
 ===============================================================================
 * Theme: Fantasy 
 * CCG
+* Cumulative Boss HP
 * XP Only from Training
 * Merge Parts
 * Consume Units
+* Monthly Reward
+  * Max: 20
 * Ladder PVP
   * Target List: Up, -1000 step 200
 * Daily Limit

@@ -19,17 +19,24 @@ Patterns
 * Collect Units
 * Hero Lottery
 * Ladder PVP
-  * Target List: Up, -10
+  * Target List: Up, -10, step 2
+* Team Many Battles PVP
 * 2-in-1 Units
 * Combat: Auto, M*N, Queue/Player, Placement = Pre-battle 
+* Cumulative Boss HP
+  * Dark Lord event (2014.08.14-21)
 * Cooldown + Daily Limit + Daily Actions
 * Cumulative Cooldown
+* Monthly Reward
+  * Max: all
+  * Late: 5, 1/day
 * Progress on Map
 * Auto-repeat Completed
 * Equipment
   * Weapon, Armor, Head, Gloves, Necklace
 * Bonus Slots
 * Merge Parts
+* Useless Extra Parts
 * Merge Items
 * Consume Units
 * Limited Collection Inventory
