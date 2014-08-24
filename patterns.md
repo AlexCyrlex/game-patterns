@@ -6,31 +6,42 @@ Description here
 ###### Implies
 * _Other patterns_
 
+Game Genre
+========================================================================
+A group of games with similar mechanics. Used to satisfy an urge to put everything into simple categories, and also to provide market segmentation. A single game can belong to multiple genres.
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+
+Action Game
+========================================================================
+In most broad sense - a game that requires correct actions in 3 categories: what - pressing correct key; when - pressing it at the right moment; where - targeting right position. This would include shooters, RTS, platformers and many other genres. In more restricted sense, usually implies melee and (optionally) ranged combat, first- or third-player view.
+* _Subpatterns_
+
+###### Implies
+* Game Genre
+
 RTS
 ========================================================================
 Real Time Strategy, usually contains combat, city building, resource extraction, scouting on same map
 * _Subpatterns_
 
 ###### Implies
-* _Other patterns_
-
-# __auto-extracted on 2014-07-31 20:09:53__
-
-Action Game
-========================================================================
-Description here
-* _Subpatterns_
-
-###### Implies
-* _Other patterns_
+* Game Genre
 
 RPG
 ========================================================================
-Description here
+Role Playing Game, originally included pen-and-paper adventuring systems that emphasized roleplaying aspects over ruleplaying (following game mechanics). In video games, usually implies some system of character attributes and advancement. In particular, RPG elements usually require some choice of character development direction.
 * _Subpatterns_
 
 ###### Implies
-* _Other patterns_
+* Game Genre
+
+
+
+# __auto-extracted on 2014-07-31 20:09:53__
 
 Death Penalty
 ========================================================================
