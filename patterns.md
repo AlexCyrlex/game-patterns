@@ -554,3 +554,130 @@ Description here
 ###### Implies
 * _Other patterns_
 
+# __auto-extracted on 2014-08-24 21:30:02__
+
+Theme
+========================================================================
+Description here
+* Fantasy, Flying Island
+* Fantasy, Undead
+* Fantasy 
+* Fantasy
+* Zombie Apocalypse
+* Fairy Tales
+* Fantasy 
+* Fantasy, Seasons
+* Sci-Fi, Planet Colonies, Warhammer 40k
+
+###### Implies
+* _Other patterns_
+
+Async PVP
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Summon Friend
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Protect NPC
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Guilds
+========================================================================
+Description here
+* Resources
+* Bonuses
+* Skills
+
+###### Implies
+* _Other patterns_
+
+Max Level
+========================================================================
+Description here
+* 55
+
+###### Implies
+* _Other patterns_
+
+Character Affiliation
+========================================================================
+Description here
+* Covenant
+* Number: 0-1
+* Add: speak with NPC
+* Level
+* Season
+* Number: 1
+* Add: Character Creation
+* Switch: 10k silver, complete main quest line
+* Level
+
+###### Implies
+* _Other patterns_
+
+Cumulative Boss HP
+========================================================================
+Description here
+* Dark Lord event (2014.08.14-21)
+
+###### Implies
+* _Other patterns_
+
+Monthly Reward
+========================================================================
+Description here
+* Max: 20
+* Max: all
+* Late: 5, 1/day
+
+###### Implies
+* _Other patterns_
+
+Team Many Battles PVP
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Useless Extra Parts
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Rogue-like
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Switch Classes
+========================================================================
+Description here
+* Unlock: 100 gold, quest progress (some)
+* Switch: free
+
+###### Implies
+* _Other patterns_
+

@@ -24,7 +24,8 @@ Patterns
 * Ladder PVP
   * Target List: Up, -1000 step 200
 * Daily Limit
-* _Generic like Resources, Classes_
+* Energy
+  * PVE: Max 50, Recover 1/10min
 
 Lists 
 ===============================================================================

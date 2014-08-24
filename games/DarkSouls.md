@@ -23,6 +23,10 @@ Patterns
 * Durability
 * 2-in-1 Resource
   * XP and Money (Souls)
+* Character Affiliation: Covenant
+  * Number: 0-1
+  * Add: speak with NPC
+  * Level
 * XP Level
 * Sum of Stats Level
 
