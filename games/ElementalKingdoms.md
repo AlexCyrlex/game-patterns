@@ -1,4 +1,4 @@
-Name 
+Elemental Kingdoms 
 ===============================================================================
 * Play Links: https://play.google.com/store/apps/details?id=air.com.perfectworld.ek - https://itunes.apple.com/us/app/elemental-kingdoms/id688620158?mt=8
 * Info Links: https://www.facebook.com/elementalkingdomsgame - http://ek.arcannis.com/elemental-kingdoms/
