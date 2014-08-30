@@ -21,6 +21,10 @@ Patterns
 * Death Penalty
 * Shield Blocking
 * Durability
+* Repeat Higher Difficulty
+  * What: Entire Game
+  * Repeat: 7
+  * Same: Last
 * 2-in-1 Resource
   * XP and Money (Souls)
 * Character Affiliation: Covenant

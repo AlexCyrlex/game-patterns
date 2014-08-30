@@ -18,13 +18,18 @@ Patterns
 * Switch Classes
   * Unlock: 100 gold, quest progress (some)
   * Switch: free
+* Cooperative PVE
+* Guilds
+  * Chat
+  * Achievements
 * Daily Reward
   * Repeat: 3 days, Max, 1-3 gold
 * Character Affiliation: Season
   * Number: 1
   * Add: Character Creation
   * Switch: 10k silver, complete main quest line
-  * Level
+  * Level: XP
+* Quests
 * XP Level
 * Currency
   * Common: Silver

@@ -20,10 +20,16 @@ Patterns
 * Async PVP
 * Summon Friend
 * Protect NPC
+* Repeat Higher Difficulty
+  * What: Game Level
+  * Repeat: 5
+  * Same: All
+* Hidden Path
 * Guilds
   * Resources
   * Bonuses
   * Skills
+  * Chat
 * Energy
   * PVP: max 30, recover 1/10m (Vigor)
 * XP Level
