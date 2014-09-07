@@ -692,3 +692,109 @@ Description here
 ###### Implies
 * _Other patterns_
 
+# __auto-extracted on 2014-09-07 15:02:22__
+
+Repeat Higher Difficulty
+========================================================================
+Description here
+* What: Game Level
+* Repeat: 5
+* Same: All
+* What: Entire Game
+* Repeat: 7
+* Same: Last
+
+###### Implies
+* _Other patterns_
+
+Hidden Path
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Visit Friends
+========================================================================
+Description here
+* Actions: Gather, Clean
+* Limit: 5 / day / friend
+* Reward: 1 Energy
+* Actions: Fertilize
+* Limit: 5 / day / friend
+* Reward: None
+
+###### Implies
+* _Other patterns_
+
+Gifts
+========================================================================
+Description here
+* Request Limit: 1 / day / friend
+
+###### Implies
+* _Other patterns_
+
+Linked Games
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Collection Crafting
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Affiliation
+========================================================================
+Description here
+* Zodiac
+* Strong Against
+* Element
+* Fire, Water, Earth? (or Plant?), None
+* Strong Against
+
+###### Implies
+* _Other patterns_
+
+Teleport
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Company Currency
+========================================================================
+Description here
+* DJArts Tokens
+* Get: complete tasks in games
+* 4 / day in 5 games
+
+###### Implies
+* _Other patterns_
+
+Cooperative PVE
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
+Quests
+========================================================================
+Description here
+* _Subpatterns_
+
+###### Implies
+* _Other patterns_
+
