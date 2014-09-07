@@ -27,11 +27,8 @@ Patterns
 * Fishing
   * Bait: Many Monsters
 * Gathering
-  * Wild Plants
-  * Mines
-  * Wood Trees
-  * Fruit Trees
-  * Butterflies
+  * Target: Wild Plants, Mines, Wood Trees, Fruit Trees, Butterflies
+  * Cost: 1 Energy
 * Crafting
 * Food
 * Real World Map
@@ -53,6 +50,12 @@ Patterns
   * Items
 * Speedup Resource
 * Friends Limit
+* Visit Friends
+  * Actions: Fertilize
+  * Limit: 5 / day / friend
+  * Reward: None
+* Gifts
+  * Request Limit: 1 / day / friend
 * Energy
   * PVE: max grows with level, 1/3m (was 1/30m)
 * XP Level
@@ -61,7 +64,7 @@ Patterns
 * Currency
   * Common: Gold
   * Premium: Banknotes
-  * Free Premium: Daily Reward (day 5), On Levelup
+  * Free Premium: Daily Reward (day 5), On Levelup (removed)
 
 Lists 
 ===============================================================================
