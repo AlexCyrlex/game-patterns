@@ -5,7 +5,7 @@ Name
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash HTML5/Canvas HTML Unity Native
+* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS)
 * Dates:
   * Public Access: 
   * Started:
