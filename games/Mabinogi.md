@@ -1,33 +1,28 @@
-Ghost Tales 
+Mabinogi 
 ===============================================================================
-* Play Links: https://apps.facebook.com/ghosttales/
-* Info Links:
+* Play Links: http://mabinogi.nexon.net/
+* Info Links: http://wiki.mabinogiworld.com/view/Wiki_Home - http://mabinogi.nexon.net/micro-site/BeginnerGuide
 * Screenshots:
 * Videos:
-* Created by:
-* Tech: Flash HTML5/Canvas HTML Unity Native
+* Created by: Nexon
+* Tech: Native (Windows)
 * Dates:
   * Public Access: 
-  * Started:
+  * Started: 2014.09.21
+  * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Ghosts
-* Gathering
-  * Multi-Click
-  * Target: Junk, Monsters, Items
-  * Cost: 1 Energy
-* Build City
-* Crafting
-* Visit Friends
-  * Actions: Gather, Clean
-  * Limit: 5 / day / friend
-  * Reward: 1 Energy
-* Gifts
+* Theme: Fantasy
+* Sandbox
+* Rebirth
+* Wound
+  * Get: Death
+  * Heal: Rest Skill, Level Up
+  * Effect: Reduce Max HP
 * XP Level
-* Energy
-  * Max 7+lvl, Recover 1/4min
+* Skills
 
 Lists 
 ===============================================================================

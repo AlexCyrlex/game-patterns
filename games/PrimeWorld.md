@@ -1,33 +1,23 @@
-Ghost Tales 
+Prime World
 ===============================================================================
-* Play Links: https://apps.facebook.com/ghosttales/
-* Info Links:
+* Play Links: http://en.playpw.com/
+* Info Links: http://primeworld.gamepedia.com/Prime_World_Wiki - http://primeworld.wikia.com/wiki/Prime_World_Wiki
 * Screenshots:
 * Videos:
-* Created by:
-* Tech: Flash HTML5/Canvas HTML Unity Native
+* Created by: Nival
+* Tech: PC, Unity
 * Dates:
   * Public Access: 
-  * Started:
+  * Started: 2014.09.14 22:14:34
+  * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Ghosts
-* Gathering
-  * Multi-Click
-  * Target: Junk, Monsters, Items
-  * Cost: 1 Energy
+* Theme: Fantasy, Tech vs. Magic
+* MOBA
 * Build City
-* Crafting
-* Visit Friends
-  * Actions: Gather, Clean
-  * Limit: 5 / day / friend
-  * Reward: 1 Energy
-* Gifts
-* XP Level
-* Energy
-  * Max 7+lvl, Recover 1/4min
+* Collect Units
 
 Lists 
 ===============================================================================

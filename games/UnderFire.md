@@ -20,7 +20,9 @@ Patterns
   * Recover: Never (units), Always (heroes)
   * Disable: HP - Remove (units), Time - Activate + Cooldown (turrets)
 * Build City
-* _Related to game play_
+* Pick Random
+  * Select: 1 of 9
+  * Retry: Credits
 * XP Level
   * On Levelup: items
 

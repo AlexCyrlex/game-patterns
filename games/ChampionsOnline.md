@@ -1,33 +1,24 @@
-Ghost Tales 
+Champions Online 
 ===============================================================================
-* Play Links: https://apps.facebook.com/ghosttales/
-* Info Links:
+* Play Links: http://www.arcgames.com/en/games/champions-online
+* Info Links: http://championsonline.wikia.com/wiki/Champions_Online_Wiki - http://www.alteredgamer.com/champions-online/50529-guide-to-travel-powers-part-1/
 * Screenshots:
 * Videos:
-* Created by:
-* Tech: Flash HTML5/Canvas HTML Unity Native
+* Created by: Cryptic - Perfect World
+* Tech: PC
 * Dates:
   * Public Access: 
   * Started:
+  * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Ghosts
-* Gathering
-  * Multi-Click
-  * Target: Junk, Monsters, Items
-  * Cost: 1 Energy
-* Build City
-* Crafting
-* Visit Friends
-  * Actions: Gather, Clean
-  * Limit: 5 / day / friend
-  * Reward: 1 Energy
-* Gifts
-* XP Level
-* Energy
-  * Max 7+lvl, Recover 1/4min
+* Theme: Superhero
+* RPG
+* Charged Skill
+* Flying
+* _Generic like Resources, Classes_
 
 Lists 
 ===============================================================================
