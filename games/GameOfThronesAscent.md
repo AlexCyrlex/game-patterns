@@ -19,7 +19,7 @@ Patterns
 * Click Mission
 * Boss Raid
 * Crafting
-* New Game Plus
+* Rebirth
 * Daily Reward
   * Repeat: 7 days, Loop
 * Item Rank

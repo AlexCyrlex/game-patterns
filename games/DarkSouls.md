@@ -21,12 +21,18 @@ Patterns
 * Death Penalty
 * Shield Blocking
 * Durability
+* Rebirth
 * Repeat Higher Difficulty
   * What: Entire Game
   * Repeat: 7
   * Same: Last
 * 2-in-1 Resource
   * XP and Money (Souls)
+* Refill Flask
+  * Flasks: 1
+  * Charges: 5 * Fire Level
+  * Effect: HP
+  * Refill: Fire
 * Character Affiliation: Covenant
   * Number: 0-1
   * Add: speak with NPC
