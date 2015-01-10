@@ -4,7 +4,9 @@ from collections import OrderedDict
 from time import localtime, strftime
 
 H1_LINE = re.compile('^=+$')
+H5_LINE = re.compile('^#{2,}\s*(.*)$')
 LIST_START = re.compile(r'^(\s*)\* (.*)$')
+
 
 def _parse_line(text):
   pos = text.find(':')
@@ -21,9 +23,14 @@ def _get_item(root, level):
     return _get_item(e, level - 1) 
 
 def parse_md(filename):
+  """
+  Returns: list of [name, description, items_list]
+  item = {'key':, 'value':, 'items':}
+  """  
   with open(filename,'r') as fo:
     result = []
     waiting_header = True
+    second_header = False
     for line in fo:
       line = line.rstrip('\n')
       if waiting_header:
@@ -31,8 +38,15 @@ def parse_md(filename):
           # second line of header - switch to body mode
           waiting_header = False
         else:
-          # first line of header - remember it
-          entry = [line.strip(),'',[]]
+          match = H5_LINE.match(line)
+          if match:
+            second_header = True
+            waiting_header = False
+            name = match.groups()[0]
+            entry = [name, '', []]
+          else:  
+            # first line of header - remember it
+            entry = [line.strip(),'',[]]
       else:
         match = LIST_START.match(line)
         if match:
@@ -43,7 +57,15 @@ def parse_md(filename):
           _get_item(entry[-1],level).append(item)
         elif line.strip() == '':
           # entry ended
-          result.append(entry)
+          if second_header:
+            [key, value, items] = entry
+            item = {'key':key, 'value':value, 'items':items, 'subheader':True}
+            real_entry = result[-1]
+            real_entry[-1].append(item)
+            second_header = False
+          else:
+            result.append(entry)
+            
           waiting_header = True
         else:
           # description
@@ -133,11 +155,31 @@ def unparse_list(lst, indent = 0):
     result = '* _Subpatterns_\n'
   return result
 
+def patterns_list(patterns):
+  results = []
+  by_name = {}
+  for pat in patterns:
+    name = pat[0]
+    parent = pat[2][-1]['items'][0]['key']
+    item = {'key':name, 'items':[]}
+    if parent[0] == '_' or parent not in by_name:
+      results.append(item)
+    else:
+      by_name[parent]['items'].append(item)
+    by_name[name] = item
+  return results
+
+
 all_games = [convert_game(parse_md('../games/'+x)) for x in os.listdir('../games') if not x.startswith('_')]
 
-# print all_games
-generate_game_list(all_games)
-extract_new_patterns(all_games)       
+print all_games[0]
+patterns = parse_md('../patterns.md')
+
+print unparse_list(patterns_list(patterns))
+
+#print [(x[0],x[2][-1]['items'][0]['key']) for x in patterns]
+#generate_game_list(all_games)
+#extract_new_patterns(all_games)       
           
           
         
