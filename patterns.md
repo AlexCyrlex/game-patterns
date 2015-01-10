@@ -39,6 +39,14 @@ Role Playing Game, originally included pen-and-paper adventuring systems that em
 ###### Implies
 * Game Genre
 
+Tower Defense
+========================================================================
+Started as a single map for Warcraft, it has become a popular genre of casual games. Build defensive structures, then destroy waves of approaching enemies.
+* _Subpatterns_
+
+###### Implies
+* RTS
+
 
 
 # __auto-extracted on 2014-07-31 20:09:53__
@@ -116,14 +124,6 @@ Description here
 * _Other patterns_
 
 Unlock Story Parts
-========================================================================
-Description here
-* _Subpatterns_
-
-###### Implies
-* _Other patterns_
-
-Tower Defense
 ========================================================================
 Description here
 * _Subpatterns_
