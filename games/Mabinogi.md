@@ -21,6 +21,8 @@ Patterns
   * Get: Death
   * Heal: Rest Skill, Level Up
   * Effect: Reduce Max HP
+* Multiple Characters
+  * 6 Free Slots ???
 * XP Level
 * Skills
 

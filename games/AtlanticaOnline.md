@@ -30,6 +30,9 @@ Patterns
 * Password
   * Not Saved
   * Shift-Insert
+* Multiple Characters
+  * 6/Server ???
+* XP Level
 
 Lists 
 ===============================================================================

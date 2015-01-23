@@ -43,7 +43,11 @@ Patterns
 * Inventory Limit
 * Plot
 * Quest Lines
+* Random Daily Quests
+  * Number: 2
+  * Not Complete: Keep
 * Unreleased Preview
+  * In Items Lists
 * Items List
   * Bestiary
   * Recipes

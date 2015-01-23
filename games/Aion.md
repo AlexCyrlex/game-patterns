@@ -20,10 +20,13 @@ Patterns
   * Limit: 6-16, Letters and Digits
   * Not Saved
   * Cannot Paste
+* Multiple Characters
+  * 8/Server
 * Keywords
   * Obtain: Click on underlined words in quest description
   * Use: Get description and location
-* _Generic like Resources, Classes_
+* Chain Skill
+* XP Level
 
 Lists 
 ===============================================================================

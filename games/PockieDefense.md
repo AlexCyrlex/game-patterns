@@ -34,7 +34,7 @@ Patterns
 * Auto-repeat Completed
 * Equipment
   * Weapon, Armor, Head, Gloves, Necklace
-* Bonus Slots
+* Socket
 * Merge Parts
 * Useless Extra Parts
 * Merge Items

@@ -26,6 +26,7 @@ Patterns
   * Hang Out
 * Chests as Storage
 * Curse
+* Multiple Characters
 * Skill Levels
 
 Lists 

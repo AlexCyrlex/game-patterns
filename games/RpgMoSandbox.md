@@ -1,24 +1,26 @@
-Inferno Legend 
+RPG MO Sandbox 
 ===============================================================================
-* Play Links: http://www.kongregate.com/games/gameboxcy/inferno-legend
-* Info Links:
+* Play Links: http://www.kongregate.com/games/MarxGames/rpg-mo-sandbox
+* Info Links: http://forums.mo.ee/ - http://rpg-mo.wikia.com/wiki/Main_Page
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash 
+* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2014.11.23 09:34:31
+  * Started:
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Demons
-* RPG
-* Daily Limit
-* Raid for Parts
-* Auto-repeat Completed
+* Theme: Fantasy
+* Fishing
+* Cooking
+* Auto Repeat Craft
+* Skills
+* Inventory
+  * Size: 8*5
 
 Lists 
 ===============================================================================
