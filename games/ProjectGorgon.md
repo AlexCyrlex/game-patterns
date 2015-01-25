@@ -20,13 +20,14 @@ Patterns
 * Crafting
 * Upgrade NPC
   * Favor Level
-  * Increase: Do Favor (one-time quests), Hang Out, gift
+  * Increase: Do Favor (one-time quests), Hang Out (one-time or repeatable offline), gift
   * Rewards: Items for each level
 * Offline Activity
   * Hang Out
 * Chests as Storage
 * Curse
 * Multiple Characters
+  * Shared Storage
 * Skill Levels
 
 Lists 

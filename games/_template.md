@@ -15,9 +15,33 @@ Name
 Patterns 
 ===============================================================================
 * Theme: 
-* _Related to game type_
-* _Related to game play_
-* _Generic like Resources, Classes_
+* _Genre RPG, Strategy, Action, Shooter_
+* _Actions_
+* Combat
+* Crafting
+* _Social_
+* PVP
+* Guild
+* Friends
+* _Progress_
+* Level
+* Classes
+* Skills
+* Quests
+* Achievements
+* _Motivators_
+* Rewards
+* Time Limited
+* _Payment_
+* VIP for Paying
+* Pay To Use
+* _World_
+* Map
+* Travel
+* _Things_
+* Currency
+* Equipment
+* _Mechanics_
 
 Lists 
 ===============================================================================
