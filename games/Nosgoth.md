@@ -17,7 +17,8 @@ Patterns
 * Theme: Vampire, Legacy of Kain
 * Action
 * TPS
-* _Actions_
+
+* __Actions__
 * Combat
   * Same Screen
   * Real Time
@@ -27,13 +28,16 @@ Patterns
 * Climb Wall
 * Consume Corpse
   * As: Execute
-* _Social_
+
+* __Social__
 * Map PVP
   * Team Deathmatch
 * Rounds for Different Roles
   * Humans, Vampires
-* _Progress_
+
+* __Progress__
 * XP Level
+  * Player?, Classes
 * Faction-Specific Classes
   * Humans
     * Hunter
@@ -53,14 +57,17 @@ Patterns
 * Skills
   * As: Abilities
   * Cost: CD
-* _Motivators_
+  
+* __Motivators__
 * Daily Free Item 
   * For: Perk
 * Time Limited Item
-* _World_
+
+* __World__
 * Map
 * Travel
-* _Things_
+
+* __Things__
 * Currency
   * Common: Coins
   * Premium: Runestones
