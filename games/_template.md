@@ -16,32 +16,40 @@ Patterns
 ===============================================================================
 * Theme: 
 * _Genre RPG, Strategy, Action, Shooter_
-* _Actions_
+*
+* __Actions__
 * Combat
 * Crafting
-* _Social_
+*
+* __Social__
 * PVP
 * Guild
 * Friends
-* _Progress_
+*
+* __Progress__
 * Level
 * Classes
 * Skills
 * Quests
 * Achievements
-* _Motivators_
+*
+* __Motivators__
 * Rewards
 * Time Limited
-* _Payment_
+*
+* __Payment__
 * VIP for Paying
 * Pay To Use
-* _World_
+*
+* __World__
 * Map
 * Travel
-* _Things_
+*
+* __Things__
 * Currency
 * Equipment
-* _Mechanics_
+*
+* __Mechanics__
 
 Lists 
 ===============================================================================
