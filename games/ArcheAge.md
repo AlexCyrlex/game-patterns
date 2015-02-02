@@ -18,6 +18,13 @@ Patterns
 * RPG
 * Crafting
 * XP Level
+* Online Reward
+  * 30m *10
+* Inventory
+  * Size: 10*5
+* Storage
+  * Size: 10*5
+  * Access: NPC
 
 Lists 
 ===============================================================================

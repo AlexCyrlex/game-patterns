@@ -14,10 +14,11 @@ Knight's Fable
 
 Patterns 
 ===============================================================================
-* Theme: 
+* Theme: Fantasy, Demons, King Arthur
 * Like: Dragon Call 2
 * RPG
-* _Actions_
+*
+* __Actions__
 * Combat
   * Tactical
   * Formation: 3 (in triangle) + Beast
@@ -56,7 +57,8 @@ Patterns
 * Auto-repeat Completed
   * As: Blitz 
   * Cost: 3m30s CD / instance
-* _Social_
+*
+* __Social__
 * Ladder PVP
   * As: Battle Shrine
 * Coop PVE
@@ -64,7 +66,8 @@ Patterns
 * Guild
 * Friends
 * Visit Friends
-* _Progress_
+* 
+* __Progress__
 * XP Level
 * Classes
   * Knight
@@ -86,7 +89,8 @@ Patterns
   * 30: Cross Server Arena, Buy Stardust, Loop Quests
   * 31: Tree of Wisdom, Monopoly
   * 32: Forge
-* _Motivators_
+*
+* __Motivators__
 * Online Reward
   * 5m, 10m, 15m, 30m, 1h, 1h
   * Wait  
@@ -98,6 +102,7 @@ Patterns
   * Max 5/day
 * New Player Reward
   * 7 days
+  * Missed: Recover
 * Daily Actions
   * As: Devotion
 * Random Daily Quests
@@ -128,11 +133,13 @@ Patterns
   * As: Time Feather
 * Time Limited Events
   * Daily Quests
-* _Payment_
+*
+* __Payment__
 * VIP for Paying
 * Pay To Use
   * Open Chest
-* _World_
+*
+* __World__
 * Map
   * City of Spirits
   * Cities
@@ -152,7 +159,8 @@ Patterns
 * Travel
   * Run, Jump
   * Portal
-* _Things_
+*
+* __Things__
 * Currency
   * Common: Silver
   * Premium: Gold
@@ -169,8 +177,9 @@ Patterns
   * Size: 6*6
 * Storage
   * Size: 6*6
-  * Accessible: Anywhere
-* _Mechanics_
+  * Access: Anywhere
+* 
+* __Mechanics__
 
 Lists 
 ===============================================================================
