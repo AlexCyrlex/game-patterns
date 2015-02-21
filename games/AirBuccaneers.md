@@ -1,64 +1,59 @@
-Name 
+Air Buccaneers 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
+* Tech: Native (Windows)
 * Dates:
   * Public Access: 
-  * Started:
+  * Started: 2015.02.03 13:35:06
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: 
-* _Genre RPG, Strategy, Action, Shooter_
+* Theme: Fantasy, Steampunk, Viking, Airship
+* FPS
 *
 * __Actions__
 * Combat
-* Crafting?
+  * Same Screen
+  * Real Time
+  * Move, Shoot, Sword, Use Cannon, Steer Ship
+* Cooldown Before Shoot
 *
 * __Social__
-* PVP?
-* Guild?
-* Friends?
+* Map PVP
+  * Ship Deathmatch
+* PVP Only
 *
 * __Progress__
-* Level?
-* Classes?
-* Skills?
-* Quests?
-* Achievements?
+* XP Level
+* Classes
+* Skills
+* Quests
+* Achievements
 *
 * __Motivators__
-* Rewards?
-* Time Limited?
+* Rewards
+* Time Limited
 *
 * __Payment__
-* Shop?
-* VIP for Paying?
-* Pay To Use?
 *
 * __World__
-* Location
-* NPC? 
-* Map?
-* Travel?
+* Airship
+* Glider
+  * From: Ground
+  * To: Airship
+  * No Control
 *
 * __Things__
 * Currency
-  * Common
-  * Premium
 * Equipment
 *
-* __Implementation__
-
-New Ideas
-===============================================================================
-* _Patterns that appear new_
+* __Mechanics__
 
 Lists 
 ===============================================================================

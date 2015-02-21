@@ -52,7 +52,7 @@ Patterns
 * VIP for Paying
 * Time Limited Premium Items
 * 7 Day Challenge
-* Gem Lotery
+* Gem Lottery
   * As: Dragon Orbs
 * Skill Tree
   * Unlock Skills: Lvl, Amethyst

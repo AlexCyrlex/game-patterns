@@ -1,4 +1,4 @@
-Name 
+Archeblade 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,27 +8,40 @@ Name
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started:
-  * Last Update:
+  * Started: 2015.02.06 13:16:46
+  * Last Update: 2014.05.27
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: 
-* _Genre RPG, Strategy, Action, Shooter_
+* Theme: Fantasy
+* Action
+* TPS
 *
 * __Actions__
 * Combat
-* Crafting?
+  * Same Screen
+  * Real Time
+  * Move, Jump, Attack (2), Ability (2), Movement Ability, Block, Power Attack, Reload, Capture
+* Combo
+* Shield Block
+* Shield and Health
+* Hold To Use
 *
 * __Social__
 * PVP?
+* PVP Only
 * Guild?
 * Friends?
 *
 * __Progress__
-* Level?
+* XP Level
 * Classes?
+* Switch Classes
+  * Starting: 0
+  * Unlocked: 14
+  * Unlock Cost: 1400 Meceta or 16 Gems
+  * Switch: Start Match
 * Skills?
 * Quests?
 * Achievements?
@@ -38,21 +51,25 @@ Patterns
 * Time Limited?
 *
 * __Payment__
-* Shop?
 * VIP for Paying?
 * Pay To Use?
 *
 * __World__
-* Location
-* NPC? 
 * Map?
 * Travel?
 *
 * __Things__
 * Currency
-  * Common
-  * Premium
+  * Common: Meceta
+  * Premium: Gems
 * Equipment
+  * Head, Face, Shoulder, Upper Body, Arm, Belt
+* Stamina
+  * As: SP
+* Rage
+  * As: RP 
+* Pickups
+  * Heal, 2x SP gain, +1 RP
 *
 * __Implementation__
 

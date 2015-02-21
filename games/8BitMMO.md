@@ -1,4 +1,4 @@
-Name 
+8BitMMO 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,23 +8,29 @@ Name
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started:
+  * Started: 2015.02.04 15:01:53
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
 * Theme: 
-* _Genre RPG, Strategy, Action, Shooter_
+* RPG
 *
 * __Actions__
 * Combat
+  * Same Screen
+  * Real Time
+  * Move, Attack
+* Construct
+  * Place Block, Pick Block
 * Crafting?
 *
 * __Social__
 * PVP?
 * Guild?
 * Friends?
+* Refer Friend
 *
 * __Progress__
 * Level?
@@ -34,31 +40,27 @@ Patterns
 * Achievements?
 *
 * __Motivators__
-* Rewards?
+* Daily Reward
 * Time Limited?
 *
 * __Payment__
-* Shop?
 * VIP for Paying?
 * Pay To Use?
 *
 * __World__
-* Location
-* NPC? 
 * Map?
 * Travel?
+* Personal Location
+  * As: Pocket Universe
 *
 * __Things__
 * Currency
-  * Common
-  * Premium
+  * Common: Gold
+  * Premium: Platinum
 * Equipment
 *
 * __Implementation__
-
-New Ideas
-===============================================================================
-* _Patterns that appear new_
+* Chat Commands
 
 Lists 
 ===============================================================================

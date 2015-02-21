@@ -1,21 +1,21 @@
-Name 
+Ghost Trappers 
 ===============================================================================
-* Play Links: http://something.com
+* Play Links: http://www.ghost-trappers.com
 * Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
+* Tech: HTML 
 * Dates:
   * Public Access: 
-  * Started:
+  * Started: 2009-08
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: 
-* _Genre RPG, Strategy, Action, Shooter_
+* Theme: Ghosts, Scotland
+* Trapping
 *
 * __Actions__
 * Combat
@@ -38,13 +38,10 @@ Patterns
 * Time Limited?
 *
 * __Payment__
-* Shop?
 * VIP for Paying?
 * Pay To Use?
 *
 * __World__
-* Location
-* NPC? 
 * Map?
 * Travel?
 *

@@ -24,7 +24,7 @@ Patterns
   * Formation: 3 (in triangle) + Beast
   * Turns for Teams then Units
   * Auto, Skip
-  * Reset HP Loss
+  * Refill Health
 * Helper
   * As: Beast
   * Cast Spells
@@ -54,9 +54,6 @@ Patterns
   * Size: 4*4
   * Reward: Legendary Beast
 * Auto Path
-* Auto-repeat Completed
-  * As: Blitz 
-  * Cost: 3m30s CD / instance
 *
 * __Social__
 * Ladder PVP
@@ -144,7 +141,7 @@ Patterns
   * City of Spirits
   * Cities
   * Quest Location
-* Area
+* Location
   * City
     * NPC
   * Instance

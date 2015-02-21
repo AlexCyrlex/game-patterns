@@ -1,4 +1,4 @@
-Name 
+Dogs of War Online 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,14 +8,14 @@ Name
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started:
-  * Last Update:
+  * Started: 2015.02.20 15:37:24
+  * Last Update: 2014.07.22
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: 
-* _Genre RPG, Strategy, Action, Shooter_
+* Theme: Fantasy, Confrontation
+* TBS
 *
 * __Actions__
 * Combat
@@ -29,6 +29,8 @@ Patterns
 * __Progress__
 * Level?
 * Classes?
+* Factions
+* Choose Before Trying
 * Skills?
 * Quests?
 * Achievements?
@@ -50,8 +52,8 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common
-  * Premium
+  * Common: Ducats
+  * Premium: Cyans
 * Equipment
 *
 * __Implementation__

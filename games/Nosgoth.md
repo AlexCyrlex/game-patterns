@@ -26,10 +26,12 @@ Patterns
 * Restore Station
   * Health, Ammo
 * Climb Wall
+* Hold To Use
 * Consume Corpse
   * As: Execute
 *
 * __Social__
+* PVP Only
 * Map PVP
   * Team Deathmatch
 * Rounds for Different Roles
@@ -75,9 +77,9 @@ Patterns
   * Weapon (Human), Armor, 2 Abilities, Special Ability (Vampire), Perk, Execution (Vampire)
 * Buy Temporary Or Permanent
   * For: Equipment
-* Cosmetic Items
-  * Skins
-  * Executions
+* Cosmetic
+  * Skin
+  * Execution
 * _Mechanics_
 
 Lists 

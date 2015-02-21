@@ -16,23 +16,78 @@ Patterns
 ===============================================================================
 * Theme: Fantasy, Atlantis
 * RPG
+*
+* __Actions__
 * Combat
-  * Tactical
-  * Turns for Teams then Units
+  * New Screen
+  * Turns: Teams, Units
   * Formation: 3*3
   * Switch, Attack, Spell, Defend
-  * Manual, Skip?
+  * Manual, Auto
 * Combat
-  * Tactical
+  * As: Scirmish
+  * New Screen
   * Square Grid
   * Move, Attack, Spell, Defend
+* Auto Path
+* Auto Combat
+  * Cost: 1 charge/battle
+  * Earn: 1 charege/enemy defeated in manual
+  * Req: Auto Battle License
+* Crafting
+  * Recipe: Skill Level
+  * Cost: Workload
+*
+* __Social__
+* PVP?
+* Guild
+* Friends?
+*
+* __Progress__
+* XP Level
+* Classes
+* Skill XP Level
+* Quests
+* Achievements?
+* Multiple Characters
+  * 6/Server
+* Battle Rating
+  * As: Might
+*
+* __Motivators__
+* Rewards?
+* Time Limited Events
+*
+* __Payment__
+* Shop?
+* VIP for Paying?
+* Pay To Use?
+*
+* __World__
+* Location
+* NPC? 
+* Map?
 * Real World Map
+* Travel
+  * Run
+  * Mount
+  * Teleport
+    * Cost: 20% Will
+    * Req: Teleport License
+  * City Travel
+    * Cost: Gold
+*
+* __Things__
+* Currency
+  * Common: Gold
+  * Premium
+* Equipment
+*
+* __Implementation__
 * Password
   * Not Saved
   * Shift-Insert
-* Multiple Characters
-  * 6/Server ???
-* XP Level
+  * Fixed: 2015.02.14 ?
 
 Lists 
 ===============================================================================
