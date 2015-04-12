@@ -1,6 +1,6 @@
 Dragon Pals 
 ===============================================================================
-* Play Links: https://apps.facebook.com/dragonpals-gogogame/
+* Play Links: https://apps.facebook.com/dragonpals-gogogame/ - https://apps.facebook.com/vernostdrakonov/ (RU)
 * Info Links:
 * Screenshots:
 * Videos:
@@ -68,6 +68,10 @@ Patterns
 Lists 
 ===============================================================================
 * Items
+* Servers
+  * EST: S3_US East, S2_US East, S1_US East
+  * RU: [S12] Цитадель[S11] Каменные руины[S10] Поющие холмы[S9] Невидимый остров[S8] Призрачный город[S7] Непроходимые болота[S6] Пурпурные степи[S5] Эмеральд[S4] Затерянный лес[S3] Опустошенные земли[S2] Затерянная долина[S1] Пустыня Скрам
+  * Playing: S1_US East, S12
 
 Stats
 ===============================================================================

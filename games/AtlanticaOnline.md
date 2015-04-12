@@ -29,14 +29,24 @@ Patterns
   * New Screen
   * Square Grid
   * Move, Attack, Spell, Defend
+* Recover Health
+  * Any
+    * Potions
+  * Combat
+    * Spell
+  * No Combat
+    * Food
+    * Rest
 * Auto Path
 * Auto Combat
   * Cost: 1 charge/battle
-  * Earn: 1 charege/enemy defeated in manual
+  * Earn: 1 charge/enemy defeated in manual
   * Req: Auto Battle License
 * Crafting
   * Recipe: Skill Level
   * Cost: Workload
+* Convert Items
+  * As: Jackpot
 *
 * __Social__
 * PVP?
@@ -45,17 +55,26 @@ Patterns
 *
 * __Progress__
 * XP Level
+* Level Too Fast
+  * Reason: Daily Quest, Event Quest
 * Classes
 * Skill XP Level
+  * For: Crafting
 * Quests
 * Achievements?
 * Multiple Characters
   * 6/Server
 * Battle Rating
   * As: Might
+* Unlock Features
 *
 * __Motivators__
-* Rewards?
+* Daily Quest
+* Daily Online Reward
+  * 1h, 2h, 3h, 4h
+* Daily Reward
+* Time of Day Event
+  * Reset Daily: 0600
 * Time Limited Events
 *
 * __Payment__
