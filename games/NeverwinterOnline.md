@@ -17,6 +17,8 @@ Patterns
 * Theme: Fantasy, Forgotten Realms
 * RPG
 * Shield Block
+* Level Too Fast
+  * Reason: Profession
 * _Generic like Resources, Classes_
 
 Lists 

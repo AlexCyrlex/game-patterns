@@ -25,6 +25,7 @@ Patterns
   * Charges: 60+
   * Effect: HP, MP, temp stat boost
   * Refill: Kill Enemy (1 charge), Enter City (All)
+* Equip Skills
 
 
 Lists 

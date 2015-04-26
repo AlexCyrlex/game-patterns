@@ -49,9 +49,9 @@ Patterns
   * As: Jackpot
 *
 * __Social__
-* PVP?
+* PVP
 * Guild
-* Friends?
+* Friends
 *
 * __Progress__
 * XP Level
@@ -79,12 +79,18 @@ Patterns
 *
 * __Payment__
 * Shop?
+* Auction House
 * VIP for Paying?
 * Pay To Use?
 *
 * __World__
 * Location
-* NPC? 
+  * Town
+  * Dungeon
+* Personal Location
+  * As: My Home
+  * Unlock: lvl 80, 500m gold
+* NPC 
 * Map?
 * Real World Map
 * Travel
@@ -99,7 +105,7 @@ Patterns
 * __Things__
 * Currency
   * Common: Gold
-  * Premium
+  * Premium: NX
 * Equipment
 *
 * __Implementation__

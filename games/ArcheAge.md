@@ -41,6 +41,7 @@ Patterns
   * Crafting
   * Daily
 * Achievements?
+* Cutscene Replay List
 *
 * __Motivators__
 * Online Reward
