@@ -30,6 +30,7 @@ Patterns
 * Level?
 * Classes?
 * Skills?
+* Abilities?
 * Quests?
 * Achievements?
 *
