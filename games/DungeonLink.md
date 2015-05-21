@@ -1,10 +1,10 @@
 Dungeon Link 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links:
+* Info Links: http://m.gamevilusa.com/forums/forumdisplay.php?962-Guides-amp-Strategies
 * Screenshots:
 * Videos:
-* Created by:
+* Created by: Gamevil
 * Tech: Native (Android, iOS)
 * Dates:
   * Public Access: 
@@ -31,25 +31,45 @@ Patterns
 * Upgrade
   * As: Enhance
 * Failure Increases Chance
+* Evolve
+  * Cost: Target, Material (same rank), Gold
+  * Result: Increase Rank
+* Random Merge
+  * In: 2 * Target (same rank, max level, max enhance)
+  * Out: next rank
 * Crafting?
 *
 * __Social__
-* PVP?
+* Async PVP
 * Guild?
 * Friends
   * Max: 20
 *
 * __Progress__
 * XP Level
+* Max Level
+  * For: Heroes
+  * Now: 30
 * Classes
   * Knight: Attack
   * Tanker: Tank
   * Samurai?: Crit
+* Allocate Points
+  * As: Stat Bonus
+  * Points: lvl *2 - 1 ?  12-23
+  * Reset: 100 Gems
 * Skills?
 * Quests?
 * Achievements?
 * Units List
   * As: Hero Collection
+* Unlock Features
+  * With: Clear Zone
+  * 3?: Daily Dungeon, Tower of Tribulation
+  * 4?: Boss Raid
+  * 5?: Auto Attack
+  * 6: PVP
+  * 7: Stat Bonus
 *
 * __Motivators__
 * Monthly Reward?
@@ -57,6 +77,9 @@ Patterns
 * Daily Lottery
 * Daily Limit
   * Daily Dungeon: 1
+* 24h Cooldown
+  * Values: 24h, 12h, 2h
+  * For: Get Hero, Lottery, Get Gems
 * Time Limited Events
 * Energy
   * As: Swords
@@ -87,6 +110,9 @@ Patterns
   * Common: Gold
   * Premium: Gems
 * Equipment
+* Unit Rank
+  * Stars: 1-6
+  * Colors: Grey, Green, Blue, Yellow, Red, Purple
 *
 * __Implementation__
 

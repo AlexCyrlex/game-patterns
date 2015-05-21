@@ -1,73 +1,79 @@
-Klondike 
+Smurfs & Co: Spellbound 
 ===============================================================================
-* Play Links: https://apps.facebook.com/klondikegame/
+* Play Links: https://apps.facebook.com/thesmurfsco-two/
 * Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash
+* Tech: Flash 
 * Dates:
   * Public Access: 
-  * Started: 2015.04.18 19:11
+  * Started:
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Alaska
-* Farm
+* Theme: Smurfs
+* Farming
 * Similar
-  * Zombie Island
+  * Gnome Town, Castleville Legends
 *
 * __Actions__
-* Combat ???
+* Combat
 * Farming
-  * Plants
-  * Animals
-* Multi Plot
+  * Plant
 * Plant Phases
-  * Plant, CD, Gather, Prepare
-* Animal Phases
-  * 1: Buy
-  * N: Feed, CD
-  * M: Feed + Gather, CD
-* Gathering
-  * Multi-Click
-* Auto-Gather Building
+  * Plant, CD, Gather
+* Plot Types
+  * Small
+  * Big: CD to plant, Day/Night sensitive
 * Build City
-  * Free
-* Clear Space
+* Decoration Bonus
+* Produce Resource
+  * House
+  * What: Smurfiness
+  * Cost: 1 energy, CD
+* Gather
+  * Clear Debris 
+  * Multi Click
+  * Sticks, Vines, Stones
 * Crafting
-  * Recipe: Building
+  * Recipe: Building, Building Level
+  * Cost: Parts, Blue Favor
 *
 * __Social__
 * PVP?
 * Guild?
 * Friends
   * Visit
+  * Help
   * Gift
-  * Hire
-* Wishlist
+  * Ask Gift
+* Friend Points
+  * As: Red Favor
+* Friend XP Level
 *
 * __Progress__
 * XP Level
 * Classes?
 * Skills?
-* Quests
-  * Simultaneous: 3-5
-* Achievements
-* Collection
+* Abilities?
+* Quests?
+* Achievements?
+* Unlock Zones
+  * Squares
+* Unlock NPCs
 *
 * __Motivators__
+* Energy
+  * Max: 27(5) 28(7)
+  * Recover: 1 / 3min  
+* Daily Roulette
+  * Free: 1
+  * Cost: 5 Gems
 * Rewards?
 * Time Limited?
-* Daily Lottery
-* Energy
-  * Max: 15 + Level Bonus  // (lvl-1)/2 ?
-  * Level Bonus: ???, 6 
-* Too Much Energy
-  * Reason: Quest Rewards
-* Food
 *
 * __Payment__
 * Shop?
@@ -76,14 +82,19 @@ Patterns
 *
 * __World__
 * Location
-* NPC? 
+* NPC
+  * Handy, Smurfette, Farmer, Miner, Greedy
+* NPC Building
+  * House, Workshop
+* Day and Night
+  * Effect: Requirement for some plants
 * Map?
 * Travel?
 *
 * __Things__
 * Currency
-  * Common: Coins
-  * Premium: Emeralds
+  * Common: Blue Favor, Red Favor, Smurfiness
+  * Premium: Mystic Gems
 * Equipment
 *
 * __Implementation__

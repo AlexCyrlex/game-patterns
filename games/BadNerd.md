@@ -1,73 +1,45 @@
-Klondike 
+Bad Nerd 
 ===============================================================================
-* Play Links: https://apps.facebook.com/klondikegame/
+* Play Links: http://something.com
 * Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash
+* Tech: Native (Android)
 * Dates:
   * Public Access: 
-  * Started: 2015.04.18 19:11
+  * Started: 2015.05.06 15:24:52
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Alaska
-* Farm
-* Similar
-  * Zombie Island
+* Theme: School
+* RPG
 *
 * __Actions__
-* Combat ???
-* Farming
-  * Plants
-  * Animals
-* Multi Plot
-* Plant Phases
-  * Plant, CD, Gather, Prepare
-* Animal Phases
-  * 1: Buy
-  * N: Feed, CD
-  * M: Feed + Gather, CD
-* Gathering
-  * Multi-Click
-* Auto-Gather Building
-* Build City
-  * Free
-* Clear Space
-* Crafting
-  * Recipe: Building
+* Combat
+  * Same Screen
+  * Real Time
+  * Move, Attack, Block
+* Crafting?
 *
 * __Social__
 * PVP?
 * Guild?
-* Friends
-  * Visit
-  * Gift
-  * Hire
-* Wishlist
+* Friends?
 *
 * __Progress__
-* XP Level
+* Level?
 * Classes?
 * Skills?
-* Quests
-  * Simultaneous: 3-5
-* Achievements
-* Collection
+* Abilities?
+* Quests?
+* Achievements?
 *
 * __Motivators__
 * Rewards?
 * Time Limited?
-* Daily Lottery
-* Energy
-  * Max: 15 + Level Bonus  // (lvl-1)/2 ?
-  * Level Bonus: ???, 6 
-* Too Much Energy
-  * Reason: Quest Rewards
-* Food
 *
 * __Payment__
 * Shop?
@@ -82,8 +54,8 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: Coins
-  * Premium: Emeralds
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__

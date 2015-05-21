@@ -1,73 +1,75 @@
-Klondike 
+Royal Story 
 ===============================================================================
-* Play Links: https://apps.facebook.com/klondikegame/
+* Play Links: https://apps.facebook.com/playroyalstory/
 * Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash
+* Tech: Flash 
 * Dates:
   * Public Access: 
-  * Started: 2015.04.18 19:11
+  * Started: 2015.05.14 23:53:12 - few years ago
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Alaska
-* Farm
+* Theme: Fantasy, Prince, Evil Witch
+* Farming
 * Similar
-  * Zombie Island
+  * CastleVille Legends
+  * FarmVille 2 (Kitchen)
+  * Was: CastleVille
 *
 * __Actions__
-* Combat ???
+* Combat
+  * Same Screen
+  * Multi Click
 * Farming
-  * Plants
-  * Animals
-* Multi Plot
+  * Plant
+  * Tree
+  * Animal
+* Plot Limit
+  * 30
+* Drag to Multi Plot
 * Plant Phases
-  * Plant, CD, Gather, Prepare
-* Animal Phases
-  * 1: Buy
-  * N: Feed, CD
-  * M: Feed + Gather, CD
-* Gathering
-  * Multi-Click
-* Auto-Gather Building
-* Build City
-  * Free
-* Clear Space
+  * Plant, CD, Gather
+* Gather
+  * Clear Debris 
+  * Multi Click
+  * Tree, Grass
+* Produce Resource
+  * As: Feed Animal
+  * Cost: Crops, CD Before
 * Crafting
-  * Recipe: Building
+  * Recipe: Building, Level
 *
 * __Social__
 * PVP?
 * Guild?
-* Friends
-  * Visit
-  * Gift
-  * Hire
-* Wishlist
+* Friends?
 *
 * __Progress__
 * XP Level
+* Levelup Bonus
+  * Complete Plants, Trees
 * Classes?
 * Skills?
-* Quests
-  * Simultaneous: 3-5
-* Achievements
-* Collection
+* Abilities?
+* Quests?
+* Achievements?
+* Unlock Zones
+  * Squares
+* Unlock Story
+  * Collect Stickers, Unlock Chapter
 *
 * __Motivators__
-* Rewards?
+* Energy  
+  * Max: 24+ lvl // 27(3), 29(5)
+  * Recover: 1 per 3m
+* Daily Reward
+  * Max: 5d
 * Time Limited?
-* Daily Lottery
-* Energy
-  * Max: 15 + Level Bonus  // (lvl-1)/2 ?
-  * Level Bonus: ???, 6 
-* Too Much Energy
-  * Reason: Quest Rewards
-* Food
 *
 * __Payment__
 * Shop?
@@ -76,14 +78,17 @@ Patterns
 *
 * __World__
 * Location
-* NPC? 
+* NPC
+  * Max the Gnome, Tortare the Turtle, Solomon the Wise Wizard
 * Map?
 * Travel?
 *
 * __Things__
 * Currency
   * Common: Coins
-  * Premium: Emeralds
+  * Premium: Rubies
+* Free Premium
+  * Daily 5d: 2 
 * Equipment
 *
 * __Implementation__

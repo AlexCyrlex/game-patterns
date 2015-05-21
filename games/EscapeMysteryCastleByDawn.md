@@ -1,52 +1,47 @@
-Myst - realMyst
+Escape Mystery Castle By Dawn 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
+* Tech: Native (Android)
 * Dates:
   * Public Access: 
-  * Started: 2015.03.25 13:58:18 - many years ago
+  * Started: 2015.05.01 20:46
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Many Worlds, Portals
-* Adventure
+* Theme: Mystery, Castle, Appartment, Old Family Photo
+* Point And Click
 *
-* __Actions__
-* No Combat
-* Puzzle
-  * Find and Enter Code
-  * Connect Path
-  * Rotate to Match
-  * Change Multiple Values
-  * Timed Mechanism
+* __Puzzle__
+* Find and Enter Code
+* Find and Put Item
+* Assemble Picture
+  * Rotate Parts
+* Activate Switch
+* Key
+* Tools
+  * Knife, Screwdriver, Magnifier
+* Hint Items
+* Inventory
 *
 * __Social__
-*
-* __Progress__
+* Bribe To Rate
+  * Reward: Walkthrough  
 *
 * __Motivators__
-*
-* __Payment__
+* Timer
+* No Saves
 *
 * __World__
-* Location
-* Hub
-  * As: Myst
-* NPC? 
-* Map?
-* Travel?
-*
-* __Things__
-* Currency
-  * Common
-  * Premium
-* Equipment
+* Location  
+  * As: Scene
+* Travel
+  * Click
 *
 * __Implementation__
 

@@ -35,6 +35,7 @@ Patterns
   * What: Souls
   * Where: Heroes
   * Slots: 3 Skills+Stats, 3 Stats
+* Equip Abilities
 * Train
   * As: Soul Upgrade
 * XP Only from Training
@@ -67,7 +68,10 @@ Patterns
 *
 * __Progress__
 * XP Level
-  * For: Heroes
+  * For: Heroes, Souls
+* Max Level
+  * For: Souls
+  * Now: 10 * (Stars + 1)
 * Classes?
 * Subclasses
   * As: Costume
@@ -100,7 +104,10 @@ Patterns
   * As: Stamina
   * Max: 100
   * Recover: 1/1m
+* Used Energy Multiplier
 * Time Limited Events
+* Time Limited Mail
+  * 14d
 *
 * __Payment__
 * Shop?

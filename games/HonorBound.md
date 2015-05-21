@@ -1,9 +1,9 @@
 HonorBound 
 ===============================================================================
 * Play Links: https://apps.facebook.com/honorbound/
-* Info Links: http://forum.juiceboxmobile.com/forum/juicebox-games/honorbound
+* Info Links: http://forum.juiceboxmobile.com/forum/juicebox-games/honorbound - http://honorbound-juicebox.wikia.com/wiki/Honorbound_by_Juicebox_Wiki
 * Screenshots:
-* Videos:
+* Videos: https://www.youtube.com/user/Unscenic/videos
 * Created by: JuiceBox Games
 * Tech: Unity
 * Dates:
@@ -33,8 +33,12 @@ Patterns
 * Capture Units
 * Steal
 * Loot Now Keep On Win
+  * For: Chests, Captures
+  * Keep: XP, Gold, Steal
 * Research 
 * Speedup
+* Identify Item
+  * As: Research Artifact
 * Train
   * As: Fortify
 * Consume Units
@@ -43,6 +47,9 @@ Patterns
   * As: Evolve
   * Number: 2
   * Increase: Evolve Rank, Stats
+* Evolve
+  * Cost: Target *2 (Same Rank), Embers
+  * Result: Increase Rank, Change Rarity (Some)
 * Produce Resource
   * As: Mine, Ember Baron
   * For: Gold, Embers
@@ -67,7 +74,8 @@ Patterns
 * __Progress__
 * XP Level
 * Level Scaling Enemies
-  * For: Portal
+  * For: Portal, Event
+* Level Scaling Event Only
 * Classes?
   * Shadow Knight: Abyss
   * Spirit Sentinel: Spirit
@@ -86,7 +94,7 @@ Patterns
 * Reputation
   * As: Renown
   * For: Region
-  * Names: Neutral, ???, Liked
+  * Names: Neutral, Friendly, Liked, Respected
 * Collection
   * For: Heroes
   * Reward: Legendary Hero
@@ -135,15 +143,27 @@ Patterns
   * Size: 25
 * Expand Inventory
   * Add: 10
-  * Cost: Diamonds 100, 125
+  * Cost: Diamonds 100, 125, 150
 * Consumables
   * Heal, Revive
-* Unit Ranks
+* Rarity
   * Name: Common, Uncommon, Rare, Epic, Legendary
-  * Color: Brown, Silver, Golden, Violet, Orange
+  * Color: Brown, Silver, Golden, Purple, Orange
+* Unit Ranks
+  * As: Evolve Rank
+  * Stars: 1-4
+  * Name: X. X+. X++. X+++
 *
 * __Implementation__
 * Limited Control Tutorial Bugs
+*
+* __Tricks__
+* Keep Incomplete
+  * For: Mine
+  * Benefit: XP, Gold, Steal without Energy
+* Reroll Instance
+  * For: Dungeon
+* One Battle Then Exit
 
 New Ideas
 ===============================================================================

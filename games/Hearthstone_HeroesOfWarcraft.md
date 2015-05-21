@@ -1,73 +1,60 @@
-Klondike 
+Hearthstone: Heroes of Warcraft 
 ===============================================================================
-* Play Links: https://apps.facebook.com/klondikegame/
-* Info Links:
+* Play Links: http://something.com
+* Info Links: https://en.wikipedia.org/wiki/Hearthstone%3A_Heroes_of_Warcraft
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash
+* Tech: Native (Windows, Mac, Android, iOS)
 * Dates:
   * Public Access: 
-  * Started: 2015.04.18 19:11
+  * Started: 2015.05.08 - few years ago
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Alaska
-* Farm
-* Similar
-  * Zombie Island
+* Theme: Fantasy, Warcraft
+* CCG
 *
 * __Actions__
-* Combat ???
-* Farming
-  * Plants
-  * Animals
-* Multi Plot
-* Plant Phases
-  * Plant, CD, Gather, Prepare
-* Animal Phases
-  * 1: Buy
-  * N: Feed, CD
-  * M: Feed + Gather, CD
-* Gathering
-  * Multi-Click
-* Auto-Gather Building
-* Build City
-  * Free
-* Clear Space
-* Crafting
-  * Recipe: Building
+* Combat
+  * New Screen
+  * Turn: Team
+  * Play Card, Hero Ability, Attack Minion, Attack Hero
+* Mana
+  * Start: 1
+  * Increase: 1 / turn
+  * Max: 10
+  * Restore: Turn
+* Crafting?
 *
 * __Social__
-* PVP?
+* PVP
 * Guild?
-* Friends
-  * Visit
-  * Gift
-  * Hire
-* Wishlist
+* Friends?
 *
 * __Progress__
 * XP Level
-* Classes?
+  * For: Classes
+* Classes
+  * Mage
+  * Hunter
+  * Warrior
+  * Shaman
+  * Druid
+  * Priest
+  * Rogue
+  * Paladin
+  * Warlock
 * Skills?
-* Quests
-  * Simultaneous: 3-5
-* Achievements
-* Collection
+* Abilities?
+* Quests?
+* Achievements?
 *
 * __Motivators__
 * Rewards?
 * Time Limited?
-* Daily Lottery
-* Energy
-  * Max: 15 + Level Bonus  // (lvl-1)/2 ?
-  * Level Bonus: ???, 6 
-* Too Much Energy
-  * Reason: Quest Rewards
-* Food
 *
 * __Payment__
 * Shop?
@@ -76,15 +63,25 @@ Patterns
 *
 * __World__
 * Location
+* Deck
+  * Max Size: 30
+  * Copies: 2, 1 (Legendary)
 * NPC? 
 * Map?
 * Travel?
 *
 * __Things__
 * Currency
-  * Common: Coins
-  * Premium: Emeralds
+  * Common
+  * Premium: Gold
 * Equipment
+* Card Types
+  * Minion
+  * Spell
+  * Weapon
+* Rarity
+  * Name: Common, Rare, Epic, Legendary
+  * Color: White, Blue, Purple, Orange
 *
 * __Implementation__
 

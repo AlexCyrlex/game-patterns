@@ -1,73 +1,60 @@
-Klondike 
+The Adventures of Red 
 ===============================================================================
-* Play Links: https://apps.facebook.com/klondikegame/
+* Play Links: http://www.kongregate.com/games/Rob_Almighty/the-adventures-of-red
 * Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash
+* Tech: Flash 
 * Dates:
   * Public Access: 
-  * Started: 2015.04.18 19:11
+  * Started: 2015.05.07 15:02:09
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Alaska
-* Farm
-* Similar
-  * Zombie Island
+* Theme: Castle
+* Point And Click
 *
-* __Actions__
-* Combat ???
-* Farming
-  * Plants
-  * Animals
-* Multi Plot
-* Plant Phases
-  * Plant, CD, Gather, Prepare
-* Animal Phases
-  * 1: Buy
-  * N: Feed, CD
-  * M: Feed + Gather, CD
-* Gathering
-  * Multi-Click
-* Auto-Gather Building
-* Build City
-  * Free
-* Clear Space
-* Crafting
-  * Recipe: Building
+* __Puzzle__
+* Hidden Object
+* Find and Enter Code
+* Roman Literals
+  * Word: MIX
+* Assemble Picture
+  * Rotate Parts
+* Find Differences
+  * Number: 5
+* Match Pair
+  * Visible: All
+* Complete Sequence
+  * ab - bc - cd - ?? (da)
+* Logic Rules
+  * 4 items: Emerald, Diamond, Ruby, Amber
+  * 3 rules: 2,3,4 place
+* Key
+* Tools
+  * Hammer
+* Inventory
+  * Keys, Gems
 *
 * __Social__
 * PVP?
 * Guild?
-* Friends
-  * Visit
-  * Gift
-  * Hire
-* Wishlist
+* Friends?
 *
 * __Progress__
-* XP Level
+* Level?
 * Classes?
 * Skills?
-* Quests
-  * Simultaneous: 3-5
-* Achievements
-* Collection
+* Abilities?
+* Quests?
+* Achievements?
 *
 * __Motivators__
 * Rewards?
 * Time Limited?
-* Daily Lottery
-* Energy
-  * Max: 15 + Level Bonus  // (lvl-1)/2 ?
-  * Level Bonus: ???, 6 
-* Too Much Energy
-  * Reason: Quest Rewards
-* Food
 *
 * __Payment__
 * Shop?
@@ -76,15 +63,19 @@ Patterns
 *
 * __World__
 * Location
+* Connected Rooms
 * NPC? 
-* Map?
+* Map
 * Travel?
 *
 * __Things__
-* Currency
-  * Common: Coins
-  * Premium: Emeralds
+* Currency?
+  * Common
+  * Premium
 * Equipment
+  * Hat
+* Decoration
+  * As: Hat
 *
 * __Implementation__
 

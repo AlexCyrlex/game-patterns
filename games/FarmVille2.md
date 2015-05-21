@@ -1,73 +1,75 @@
-Klondike 
+FarmVille2 
 ===============================================================================
-* Play Links: https://apps.facebook.com/klondikegame/
+* Play Links: http://something.com
 * Info Links:
 * Screenshots:
 * Videos:
-* Created by:
-* Tech: Flash
+* Created by: Zynga
+* Tech: Flash 
 * Dates:
   * Public Access: 
-  * Started: 2015.04.18 19:11
-  * Last Update:
+  * Started: 2015.05.17 11:05:07 - few years ago
+  * Last Update: 
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Alaska
-* Farm
-* Similar
-  * Zombie Island
+* Theme: Farm
+* Farming
 *
 * __Actions__
-* Combat ???
 * Farming
-  * Plants
-  * Animals
-* Multi Plot
+  * Plant
+  * Tree
+  * Animal
+* Plot Limit
+  * 30
+* Drag to Multi Plot
 * Plant Phases
-  * Plant, CD, Gather, Prepare
+  * Plant, Water, CD, Gather
+* Tree Phases
+  * 1: Buy
+  * Repeat: Water, CD, Gather
 * Animal Phases
   * 1: Buy
-  * N: Feed, CD
-  * M: Feed + Gather, CD
-* Gathering
-  * Multi-Click
-* Auto-Gather Building
+  * N: Bottle, CD
+  * Repeat: Feed + Gather, CD
 * Build City
-  * Free
-* Clear Space
-* Crafting
-  * Recipe: Building
+* Cooking
+  * Recipe: Level
+  * Cost: 1 Power
 *
 * __Social__
 * PVP?
 * Guild?
 * Friends
   * Visit
-  * Gift
-  * Hire
-* Wishlist
 *
 * __Progress__
 * XP Level
-* Classes?
+* Levelup Bonus
+  * Complete Plants, Trees
+* Item Mastery Rank
+  * For: Plant, Animal
+  * Ranks: 3, 1
 * Skills?
+* Abilities?
 * Quests
-  * Simultaneous: 3-5
-* Achievements
-* Collection
+* Achievements?
 *
 * __Motivators__
-* Rewards?
-* Time Limited?
-* Daily Lottery
 * Energy
-  * Max: 15 + Level Bonus  // (lvl-1)/2 ?
-  * Level Bonus: ???, 6 
-* Too Much Energy
-  * Reason: Quest Rewards
-* Food
+  * As: Water, Power
+  * Max: 30
+  * Recover: 10/4h, 1/3m
+* Daily Rewards
+  * As: Family Chest
+  * CD: 18h?
+  * Time Limited: 20d?
+* Welcome Back
+  * Quests, Farm Bucks rewards
+* Time Limited Plants
+* Time Limited Recipe
 *
 * __Payment__
 * Shop?
@@ -83,7 +85,10 @@ Patterns
 * __Things__
 * Currency
   * Common: Coins
-  * Premium: Emeralds
+  * Premium: Farm Bucks
+* Free Premium
+  * Start: 10
+  * Welcome Back: 30
 * Equipment
 *
 * __Implementation__

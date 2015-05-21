@@ -55,6 +55,11 @@ Patterns
 *
 * __Progress__
 * XP Level
+* Max Level
+  * Now: 170
+* Level Scaling Enemies
+  * For: Event
+* Level Scaling Event Only
 * Level Too Fast
   * Reason: Daily Quest, Event Quest
 * Classes
@@ -76,6 +81,8 @@ Patterns
 * Time of Day Event
   * Reset Daily: 0600
 * Time Limited Events
+* Time Limited Mail
+  * 90d
 *
 * __Payment__
 * Shop?
