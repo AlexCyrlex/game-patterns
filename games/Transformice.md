@@ -1,53 +1,36 @@
-Hearthstone: Heroes of Warcraft 
+Transformice 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: https://en.wikipedia.org/wiki/Hearthstone%3A_Heroes_of_Warcraft
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows, Mac, Android, iOS)
+* Tech: Flash, Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.05.08 - few years ago
+  * Started: 2015.07.22 13:12:22
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Warcraft
-* CCG
+* Theme: Mice
+* Platformer
 *
 * __Actions__
 * Combat
-  * New Screen
-  * Turn: Team
-  * Play Card, Hero Ability, Attack Minion, Attack Hero
-* Mana
-  * Start: 1
-  * Increase: 1 / turn
-  * Max: 10
-  * Restore: Turn
-* Crafting?
+* Gather and Bring
+* Leader and Followers
+  * As: Shaman
 *
 * __Social__
-* Random PVP
-* Draft
+* PVP?
 * Guild?
 * Friends?
 *
 * __Progress__
-* XP Level
-  * For: Classes
-* Classes
-  * Mage
-  * Hunter
-  * Warrior
-  * Shaman
-  * Druid
-  * Priest
-  * Rogue
-  * Paladin
-  * Warlock
+* Level?
+* Classes?
 * Skills?
 * Abilities?
 * Quests?
@@ -64,9 +47,6 @@ Patterns
 *
 * __World__
 * Location
-* Deck
-  * Max Size: 30
-  * Copies: 2, 1 (Legendary)
 * NPC? 
 * Map?
 * Travel?
@@ -74,15 +54,8 @@ Patterns
 * __Things__
 * Currency
   * Common
-  * Premium: Gold
+  * Premium
 * Equipment
-* Card Types
-  * Minion
-  * Spell
-  * Weapon
-* Rarity
-  * Name: Common, Rare, Epic, Legendary
-  * Color: White, Blue, Purple, Orange
 *
 * __Implementation__
 

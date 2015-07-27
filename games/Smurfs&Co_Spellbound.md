@@ -21,6 +21,7 @@ Patterns
 *
 * __Actions__
 * Combat
+  * Multi Click
 * Farming
   * Plant
 * Plant Phases
@@ -53,6 +54,7 @@ Patterns
 * Friend Points
   * As: Red Favor
 * Friend XP Level
+  * As: Social Level
 *
 * __Progress__
 * XP Level
@@ -69,6 +71,10 @@ Patterns
 * Energy
   * Max: 27(5) 28(7)
   * Recover: 1 / 3min  
+* Energy Source
+  * As: Spirit Totem
+  * Max: 2-5
+  * Recover: Max/5h
 * Daily Roulette
   * Free: 1
   * Cost: 5 Gems
@@ -83,7 +89,13 @@ Patterns
 * __World__
 * Location
 * NPC
-  * Handy, Smurfette, Farmer, Miner, Greedy
+  * Papa
+  * Handy: Tools 
+  * Smurfette: Flowers
+  * Farmer
+  * Miner
+  * Greedy: Cook
+  * Hefty: Fighter
 * NPC Building
   * House, Workshop
 * Day and Night

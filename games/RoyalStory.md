@@ -38,11 +38,18 @@ Patterns
   * Clear Debris 
   * Multi Click
   * Tree, Grass
+* Water Farm
+  * Animal, Tree?
+* Buy Debris
 * Produce Resource
   * As: Feed Animal
   * Cost: Crops, CD Before
+* Auto Produce
+  * As: Automation
 * Crafting
   * Recipe: Building, Level
+* Probability Funnel
+  * Ore - Vitamin
 *
 * __Social__
 * PVP?
@@ -56,7 +63,12 @@ Patterns
 * Classes?
 * Skills?
 * Abilities?
-* Quests?
+* Quests
+  * Simultaneous: 3-5
+* Quests for Units
+  * As: Mystic Garden
+* Random Item Quest
+  * As: Air Port Board
 * Achievements?
 * Unlock Zones
   * Squares
@@ -67,9 +79,15 @@ Patterns
 * Energy  
   * Max: 24+ lvl // 27(3), 29(5)
   * Recover: 1 per 3m
+* Energy Source
+  * As: Dragon
+  * Max: 5
+  * Recover: 1/3m
 * Daily Reward
   * Max: 5d
-* Time Limited?
+* Daily Actions
+  * As: Daily Routine
+* Time Limited Events
 *
 * __Payment__
 * Shop?
@@ -87,9 +105,17 @@ Patterns
 * Currency
   * Common: Coins
   * Premium: Rubies
+  * Rare: Shillings, Florins
 * Free Premium
   * Daily 5d: 2 
 * Equipment
+* Inventory
+  * Max Stack: 100, 50
+* Storage
+  * As: Warehouse
+  * Size: 10 + 10 * warehouseLevel
+* Active Storage
+  * As: Workshop, Greenhouse, Royal 
 *
 * __Implementation__
 

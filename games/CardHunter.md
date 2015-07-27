@@ -1,59 +1,61 @@
-Hearthstone: Heroes of Warcraft 
+Card Hunter 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: https://en.wikipedia.org/wiki/Hearthstone%3A_Heroes_of_Warcraft
+* Info Links: http://forums.cardhunter.com/ - http://cardhunter.wikia.com/wiki/Card_Hunter_Wiki (closed) - http://wiki.cardhuntria.com/ (unavailable?) - http://guidescroll.com/2013/09/card-hunter-starting-multiplayer-guide/ - 
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows, Mac, Android, iOS)
+* Tech: Flash, Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.05.08 - few years ago
+  * Started: 2015.07.21 11:42:54
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Warcraft
+* Theme: Fantasy
 * CCG
+* TBS
 *
 * __Actions__
 * Combat
   * New Screen
-  * Turn: Team
-  * Play Card, Hero Ability, Attack Minion, Attack Hero
-* Mana
-  * Start: 1
-  * Increase: 1 / turn
-  * Max: 10
-  * Restore: Turn
+  * Turn: Unit, Team
+  * Play Unit Card
+* Boardgame
+* Card
+  * Attack
+  * Move
+  * Buff
+  * Armor
+  * Block
+* Draw
+  * Move + 2 Cards per Unit
 * Crafting?
 *
 * __Social__
-* Random PVP
-* Draft
+* PVP?
 * Guild?
 * Friends?
 *
 * __Progress__
 * XP Level
-  * For: Classes
 * Classes
-  * Mage
-  * Hunter
   * Warrior
-  * Shaman
-  * Druid
+  * Wizard
   * Priest
-  * Rogue
-  * Paladin
-  * Warlock
+* Race
+  * Dwarf
+  * Human
+  * Elf
 * Skills?
 * Abilities?
 * Quests?
 * Achievements?
 *
 * __Motivators__
+* Daily Adventure Reset
 * Rewards?
 * Time Limited?
 *
@@ -64,25 +66,15 @@ Patterns
 *
 * __World__
 * Location
-* Deck
-  * Max Size: 30
-  * Copies: 2, 1 (Legendary)
 * NPC? 
 * Map?
 * Travel?
 *
 * __Things__
 * Currency
-  * Common
-  * Premium: Gold
+  * Common: Gold
+  * Premium: Pizza Slices
 * Equipment
-* Card Types
-  * Minion
-  * Spell
-  * Weapon
-* Rarity
-  * Name: Common, Rare, Epic, Legendary
-  * Color: White, Blue, Purple, Orange
 *
 * __Implementation__
 

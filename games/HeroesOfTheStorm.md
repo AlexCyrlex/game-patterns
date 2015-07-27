@@ -1,55 +1,49 @@
-Hearthstone: Heroes of Warcraft 
+Heroes of the Storm 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: https://en.wikipedia.org/wiki/Hearthstone%3A_Heroes_of_Warcraft
+* Info Links:
 * Screenshots:
 * Videos:
-* Created by:
-* Tech: Native (Windows, Mac, Android, iOS)
+* Created by: Blizzard
+* Tech: Native (Windows, Mac)
 * Dates:
   * Public Access: 
-  * Started: 2015.05.08 - few years ago
+  * Started: 2015.05.27 14:50:09
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Warcraft
-* CCG
+* Theme: Multi-World, Warcraft, Starcraft, Diablo
+* MOBA
 *
 * __Actions__
 * Combat
-  * New Screen
-  * Turn: Team
-  * Play Card, Hero Ability, Attack Minion, Attack Hero
-* Mana
-  * Start: 1
-  * Increase: 1 / turn
-  * Max: 10
-  * Restore: Turn
+  * Same Screen
+  * Real Time
+  * Move, Attack, Move and Attack, Ability, Teleport Base, Mount, Use Fountain
+* Tower Ammo
 * Crafting?
 *
 * __Social__
-* Random PVP
-* Draft
+* PVP?
 * Guild?
 * Friends?
 *
 * __Progress__
-* XP Level
-  * For: Classes
-* Classes
-  * Mage
-  * Hunter
+* Team XP Level
+* Classes 
+  * Melee
+  * Ranged
   * Warrior
-  * Shaman
-  * Druid
-  * Priest
-  * Rogue
-  * Paladin
-  * Warlock
+  * Assassin
+  * Support
+  * Specialist
 * Skills?
-* Abilities?
+* Abilities
+* Upgrades
+  * As: Talents
+  * Choose One
 * Quests?
 * Achievements?
 *
@@ -64,27 +58,18 @@ Patterns
 *
 * __World__
 * Location
-* Deck
-  * Max Size: 30
-  * Copies: 2, 1 (Legendary)
 * NPC? 
 * Map?
 * Travel?
 *
 * __Things__
 * Currency
-  * Common
-  * Premium: Gold
+  * Common: Gold
+  * Premium
 * Equipment
-* Card Types
-  * Minion
-  * Spell
-  * Weapon
-* Rarity
-  * Name: Common, Rare, Epic, Legendary
-  * Color: White, Blue, Purple, Orange
 *
 * __Implementation__
+* Ask How Familiar
 
 New Ideas
 ===============================================================================

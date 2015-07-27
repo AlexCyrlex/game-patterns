@@ -1,53 +1,41 @@
-Hearthstone: Heroes of Warcraft 
+Cubic Castles 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: https://en.wikipedia.org/wiki/Hearthstone%3A_Heroes_of_Warcraft
+* Info Links: http://cubiccastles.com/perks.php - http://cubiccastles.wikia.com/wiki/Perks
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows, Mac, Android, iOS)
+* Tech: Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.05.08 - few years ago
+  * Started: 2015.07.15 11:30:35
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Warcraft
-* CCG
+* Theme: 
+* Sandbox
+* Similar
+  * Minecraft, Trove
+  * 8bitMMO
 *
 * __Actions__
-* Combat
-  * New Screen
-  * Turn: Team
-  * Play Card, Hero Ability, Attack Minion, Attack Hero
-* Mana
-  * Start: 1
-  * Increase: 1 / turn
-  * Max: 10
-  * Restore: Turn
-* Crafting?
+* Combat?
+* Gather
+* Farming
+  * Bushes
+* Crafting
 *
 * __Social__
-* Random PVP
-* Draft
+* PVP?
 * Guild?
 * Friends?
 *
 * __Progress__
 * XP Level
-  * For: Classes
-* Classes
-  * Mage
-  * Hunter
-  * Warrior
-  * Shaman
-  * Druid
-  * Priest
-  * Rogue
-  * Paladin
-  * Warlock
+* Perk
+* Classes?
 * Skills?
 * Abilities?
 * Quests?
@@ -64,9 +52,9 @@ Patterns
 *
 * __World__
 * Location
-* Deck
-  * Max Size: 30
-  * Copies: 2, 1 (Legendary)
+  * Mine
+  * Town
+* Personal Location
 * NPC? 
 * Map?
 * Travel?
@@ -74,15 +62,9 @@ Patterns
 * __Things__
 * Currency
   * Common
-  * Premium: Gold
+  * Premium
 * Equipment
-* Card Types
-  * Minion
-  * Spell
-  * Weapon
-* Rarity
-  * Name: Common, Rare, Epic, Legendary
-  * Color: White, Blue, Purple, Orange
+  * Hat
 *
 * __Implementation__
 
@@ -93,6 +75,11 @@ New Ideas
 Lists 
 ===============================================================================
 * Items
+* Perks (lvl)
+  1: Mad Hatter, Packrat, Geologist
+  2: Faster Mining, Emo, Packrat
+  3: Packrat, Emo, Carpenter
+  4: Geologist, Carpenter 2, Packrat
 
 Stats
 ===============================================================================

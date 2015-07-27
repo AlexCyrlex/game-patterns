@@ -23,7 +23,7 @@ Patterns
   * New Screen
   * Attack
   * Manual, Auto
-* Minigame Attack
+* Minigame Combat
 * Connect Path
   * Length: Max
 * Chain Paths

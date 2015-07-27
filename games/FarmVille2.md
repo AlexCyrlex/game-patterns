@@ -61,7 +61,11 @@ Patterns
 * Energy
   * As: Water, Power
   * Max: 30
-  * Recover: 10/4h, 1/3m
+  * Recover: 1/3m
+* Energy Source
+  * For: Water
+  * Max: 10
+  * Recover: 10/4h
 * Daily Rewards
   * As: Family Chest
   * CD: 18h?

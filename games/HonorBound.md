@@ -90,6 +90,8 @@ Patterns
   * Cleric
 * Skills
 * Quests
+* Quests For Units
+  * As: Quests
 * Achievements
 * Reputation
   * As: Renown

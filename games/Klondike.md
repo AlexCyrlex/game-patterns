@@ -1,7 +1,7 @@
 Klondike 
 ===============================================================================
 * Play Links: https://apps.facebook.com/klondikegame/
-* Info Links:
+* Info Links: http://klondike.wikia.com/wiki/Guides - http://4klondike.com/en/collections/C_9.html
 * Screenshots:
 * Videos:
 * Created by:
@@ -23,14 +23,26 @@ Patterns
 * Combat ???
 * Farming
   * Plants
+  * Trees
   * Animals
 * Multi Plot
 * Plant Phases
   * Plant, CD, Gather, Prepare
+* Tree Phases
+  * 1: Plant
+  * N: Water, CD
+  * M: Gather, Water, CD
 * Animal Phases
   * 1: Buy
   * N: Feed, CD
   * M: Feed + Gather, CD
+* Auto Feed
+  * For: Cow, Sheep
+  * What: Grass
+* Water Farm
+  * Animal
+* Limited Charges
+  * Feed Animal, Gather Tree
 * Gathering
   * Multi-Click
 * Auto-Gather Building
@@ -39,6 +51,19 @@ Patterns
 * Clear Space
 * Crafting
   * Recipe: Building
+* Workers
+  * Get: Hire Friends, Limited Time
+* Work Queue
+  * Size: 3
+* Build Fire
+  * As: Kindle
+    * Cost: Matches, Twigs
+    * Result: Fire
+  * As: Multiply
+    * Cost: Fire *N , Fuel (Twigs, Wood, Coal)
+    * Result: Fire *M
+* Hidden Object
+  * For: Nest
 *
 * __Social__
 * PVP?
@@ -64,13 +89,18 @@ Patterns
 * Daily Lottery
 * Energy
   * Max: 15 + Level Bonus  // (lvl-1)/2 ?
-  * Level Bonus: ???, 6 
+  * Level Bonus: (lvl+4)/5 ? 6 //12: +3 
+  * Recover: 1/3m
 * Too Much Energy
   * Reason: Quest Rewards
+* Current Energy Requirement
+  * For: Clear Tree, Rock
 * Food
 *
 * __Payment__
 * Shop?
+* Player Shop
+  * Slots: 3
 * VIP for Paying?
 * Pay To Use?
 *

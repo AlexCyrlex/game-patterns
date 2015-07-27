@@ -1,54 +1,61 @@
-Hearthstone: Heroes of Warcraft 
+Achaea 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: https://en.wikipedia.org/wiki/Hearthstone%3A_Heroes_of_Warcraft
+* Play Links: http://www.achaea.com/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows, Mac, Android, iOS)
+* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.05.08 - few years ago
+  * Started: 2015.06.30 20:33:03
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Warcraft
-* CCG
+* Theme: 
+* RPG
+* MUD
 *
 * __Actions__
 * Combat
-  * New Screen
-  * Turn: Team
-  * Play Card, Hero Ability, Attack Minion, Attack Hero
-* Mana
-  * Start: 1
-  * Increase: 1 / turn
-  * Max: 10
-  * Restore: Turn
+  * Same Screen
+  * Real Time
+  * Punch, Kick, Headslam
+* Tattoo
 * Crafting?
 *
 * __Social__
-* Random PVP
-* Draft
-* Guild?
+* PVP?
+* Guild
+  * As: House
+  * Restrictions: City, Class
 * Friends?
 *
 * __Progress__
-* XP Level
-  * For: Classes
+* Level?
 * Classes
-  * Mage
-  * Hunter
-  * Warrior
-  * Shaman
+  * Alchemist
+  * Apostate
+  * Bard
+  * Blademaster
   * Druid
-  * Priest
-  * Rogue
+  * Infernal
+  * Jester
+  * Magi
+  * Monk
+  * Occultist
   * Paladin
-  * Warlock
-* Skills?
+  * Priest
+  * Runewarden
+  * Sentinel
+  * Serpent
+  * Shaman
+  * Sylvan
+* Races
+* Skills
+  * 3 per Class
 * Abilities?
 * Quests?
 * Achievements?
@@ -64,9 +71,6 @@ Patterns
 *
 * __World__
 * Location
-* Deck
-  * Max Size: 30
-  * Copies: 2, 1 (Legendary)
 * NPC? 
 * Map?
 * Travel?
@@ -74,15 +78,8 @@ Patterns
 * __Things__
 * Currency
   * Common
-  * Premium: Gold
+  * Premium
 * Equipment
-* Card Types
-  * Minion
-  * Spell
-  * Weapon
-* Rarity
-  * Name: Common, Rare, Epic, Legendary
-  * Color: White, Blue, Purple, Orange
 *
 * __Implementation__
 

@@ -1,60 +1,58 @@
-Hearthstone: Heroes of Warcraft 
+Dragon Friends : Green Witch 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: https://en.wikipedia.org/wiki/Hearthstone%3A_Heroes_of_Warcraft
+* Play Links: https://apps.facebook.com/dragonfriendsgw/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows, Mac, Android, iOS)
+* Tech: HTML5/Canvas/Emscripten
 * Dates:
   * Public Access: 
-  * Started: 2015.05.08 - few years ago
+  * Started: 2015.05.22 15:24:08
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Warcraft
-* CCG
+* Theme: Fantasy, Dragons
+* Farming
+* Similar 
+  * Dragon City
 *
 * __Actions__
-* Combat
-  * New Screen
-  * Turn: Team
-  * Play Card, Hero Ability, Attack Minion, Attack Hero
-* Mana
-  * Start: 1
-  * Increase: 1 / turn
-  * Max: 10
-  * Restore: Turn
+* Combat?
+* Build City
+* Animal House
+* Farming
+  * Plant
+  * Tree
+  * Animal
+* Animal Level
+* Breed
+* Evolve
+  * As: Magic
+* Capture Clouds
 * Crafting?
 *
 * __Social__
-* Random PVP
-* Draft
+* PVP?
 * Guild?
 * Friends?
 *
 * __Progress__
 * XP Level
-  * For: Classes
-* Classes
-  * Mage
-  * Hunter
-  * Warrior
-  * Shaman
-  * Druid
-  * Priest
-  * Rogue
-  * Paladin
-  * Warlock
+* Classes?
 * Skills?
 * Abilities?
-* Quests?
-* Achievements?
+* Quests
+* Achievements
+  * Rewards: 
+* Unit List
+  * As: Collection
 *
 * __Motivators__
-* Rewards?
+* Daily Reward
+  * Max: 28d
 * Time Limited?
 *
 * __Payment__
@@ -64,25 +62,22 @@ Patterns
 *
 * __World__
 * Location
-* Deck
-  * Max Size: 30
-  * Copies: 2, 1 (Legendary)
 * NPC? 
 * Map?
 * Travel?
 *
 * __Things__
 * Currency
-  * Common
-  * Premium: Gold
+  * Common: Gold
+  * Premium: Gems
+  * Social: Hearts
+* Free Premium
+  * Levelup: 1
+  * Quests
+  * Magic Hall: 3
+  * Craft
+  * 4-Star Unit Bestiary: 1
 * Equipment
-* Card Types
-  * Minion
-  * Spell
-  * Weapon
-* Rarity
-  * Name: Common, Rare, Epic, Legendary
-  * Color: White, Blue, Purple, Orange
 *
 * __Implementation__
 

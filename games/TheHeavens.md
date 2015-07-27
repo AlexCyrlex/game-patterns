@@ -1,53 +1,42 @@
-Hearthstone: Heroes of Warcraft 
+The Heavens 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: https://en.wikipedia.org/wiki/Hearthstone%3A_Heroes_of_Warcraft
+* Play Links: http://nebogame.com/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows, Mac, Android, iOS)
+* Tech: Flash 
 * Dates:
   * Public Access: 
-  * Started: 2015.05.08 - few years ago
+  * Started: 2015.06.01 10:05:47
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Warcraft
-* CCG
+* Theme: Islands in Sky, Gods
+* RPG
 *
 * __Actions__
 * Combat
   * New Screen
-  * Turn: Team
-  * Play Card, Hero Ability, Attack Minion, Attack Hero
-* Mana
-  * Start: 1
-  * Increase: 1 / turn
-  * Max: 10
-  * Restore: Turn
-* Crafting?
+  * Turn Based, Time Limit
+  * Attack, Heal, Get Mana, Cast Spell, Use Item
+* Minigame Combat
+  * Match 3 Row
+* Build City
+  * Fixed
+* Crafting
+  * Recipe: Scrolls
 *
 * __Social__
-* Random PVP
-* Draft
+* PVP?
 * Guild?
 * Friends?
 *
 * __Progress__
 * XP Level
-  * For: Classes
-* Classes
-  * Mage
-  * Hunter
-  * Warrior
-  * Shaman
-  * Druid
-  * Priest
-  * Rogue
-  * Paladin
-  * Warlock
+* Classes?
 * Skills?
 * Abilities?
 * Quests?
@@ -64,9 +53,6 @@ Patterns
 *
 * __World__
 * Location
-* Deck
-  * Max Size: 30
-  * Copies: 2, 1 (Legendary)
 * NPC? 
 * Map?
 * Travel?
@@ -74,15 +60,10 @@ Patterns
 * __Things__
 * Currency
   * Common
-  * Premium: Gold
+  * Premium
 * Equipment
-* Card Types
-  * Minion
-  * Spell
-  * Weapon
-* Rarity
-  * Name: Common, Rare, Epic, Legendary
-  * Color: White, Blue, Purple, Orange
+  * Weapon, Shield/2H, Armor, Ring, Amulet, Relic
+* Durability
 *
 * __Implementation__
 
