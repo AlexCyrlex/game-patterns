@@ -1,29 +1,34 @@
-RIFT 
+Royal Garden 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Play Links: https://apps.facebook.com/royalgardengame/
+* Info Links:
 * Screenshots:
 * Videos:
-* Created by:
-* Tech: Native (Windows)
+* Created by: Enixan
+* Tech: Flash 
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.11.16 15:09:00
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: Fantasy, Free Kingdom From Darkness
+* Farming
+* Similar
+  * Cloud Kingdom
+  * Royal Story
 *
 * __Actions__
-* Combat
-  * Same Screen
-  * Real Time
-  * Move, Jump, Ability
-* Crafting?
+* Farm
+* Build
+* Upgrade Building
+* Gather
+* Catch Bird
+* Crafting
+  * Recipe: Building
+  * Cost: CD
 *
 * __Social__
 * PVP?
@@ -31,18 +36,16 @@ Patterns
 * Friends?
 *
 * __Progress__
-* XP Level
+* Level?
 * Classes?
 * Skills?
 * Abilities?
-* Quests
+* Quests?
 * Achievements?
-* Collection
 *
 * __Motivators__
 * Rewards?
-* Daily Quests
-* Time Limited Events
+* Time Limited?
 *
 * __Payment__
 * Shop?
@@ -62,6 +65,10 @@ Patterns
 * Equipment
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

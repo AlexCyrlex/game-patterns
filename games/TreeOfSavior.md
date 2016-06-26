@@ -1,28 +1,30 @@
-RIFT 
+Tree of Savior 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Info Links: http://www.tosbase.com/game/classes/
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Native (Windows)
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2016.06.02 22:29:27
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
+* Theme: Demons, Gods Left
 * RPG
-* Themepark
+* Similar
+  * Secret of Mana
+  * Ragnarok Online
 *
 * __Actions__
 * Combat
   * Same Screen
   * Real Time
-  * Move, Jump, Ability
+  * Move, Jump, Attack
 * Crafting?
 *
 * __Social__
@@ -32,17 +34,21 @@ Patterns
 *
 * __Progress__
 * XP Level
-* Classes?
+  * Character
+  * Class
+* Classes
+  * Swordsman
+  * Archer
+  * Wizard
+  * Cleric
 * Skills?
 * Abilities?
-* Quests
+* Quests?
 * Achievements?
-* Collection
 *
 * __Motivators__
 * Rewards?
-* Daily Quests
-* Time Limited Events
+* Time Limited?
 *
 * __Payment__
 * Shop?
@@ -54,6 +60,7 @@ Patterns
 * NPC? 
 * Map?
 * Travel?
+* Teleport to Questgiver
 *
 * __Things__
 * Currency
@@ -62,6 +69,10 @@ Patterns
 * Equipment
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

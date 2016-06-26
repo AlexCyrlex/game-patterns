@@ -1,28 +1,32 @@
-RIFT 
+Lionheart Tactics 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Play Links: http://www.kongregate.com/games/EmeraldCityGames/lionheart-tactics-web
+* Info Links: http://lionheart-tactics.wikia.com/wiki/Lionheart_Tactics_Wiki - http://lionhearttactics.com/forums/index.php - http://www.kongregate.com/forums/897-lionheart-tactics
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows)
+* Tech: Unity
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.10.26 09:46:52
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: Fantasy
+* Tactical RPG
+* Similar
+  * Final Fantasy Tactics
+    * 3D environment, heights
 *
 * __Actions__
 * Combat
   * Same Screen
-  * Real Time
-  * Move, Jump, Ability
+  * Turns
+  * Move, Attack, Move+Attack, Ability, Limit Break
+  * Manual, Auto
+* Grid: Square
 * Crafting?
 *
 * __Social__
@@ -32,17 +36,21 @@ Patterns
 *
 * __Progress__
 * XP Level
-* Classes?
+* Ranks
+  * Recruit, Novice
+* Classes
 * Skills?
 * Abilities?
-* Quests
+* Quests?
 * Achievements?
-* Collection
 *
 * __Motivators__
-* Rewards?
-* Daily Quests
-* Time Limited Events
+* New Player Reward
+  * Max: 7d
+* Daily Wheel
+* Healing Time
+* Weekly Dungeon
+* Time Limited Event
 *
 * __Payment__
 * Shop?
@@ -60,8 +68,13 @@ Patterns
   * Common
   * Premium
 * Equipment
+  * Weapon, Armor, Head, Accessory
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

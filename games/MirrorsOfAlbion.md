@@ -1,28 +1,34 @@
-RIFT 
+Mirrors of Albion 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Play Links: https://apps.facebook.com/mirrorsofalbion/
+* Info Links:
 * Screenshots:
 * Videos:
-* Created by:
-* Tech: Native (Windows)
+* Created by: Game Insight
+* Tech: Flash 
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.10.11 16:28:25 - few years ago
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: London, Sherlock Holmes, Alice in Wonderland
+* Hidden Objects
+  * Multi
+  * Items: 8, 10, 15, 
+  * Energy: ?, 20, 25
+  * Visible: 6
 *
 * __Actions__
+* HO Target
+  * Ask: Name, Shape
+  * Hover: Fuzzy Shape, Fuzzy Name
+  * Timed: Shape, Name
+* HO Mods
+  * Fog: +15 Energy, Time Limit: 3m, fog (click to dispel) 
 * Combat
-  * Same Screen
-  * Real Time
-  * Move, Jump, Ability
 * Crafting?
 *
 * __Social__
@@ -32,17 +38,17 @@ Patterns
 *
 * __Progress__
 * XP Level
-* Classes?
 * Skills?
 * Abilities?
 * Quests
 * Achievements?
-* Collection
 *
 * __Motivators__
-* Rewards?
-* Daily Quests
-* Time Limited Events
+* Daily Reward
+* Energy
+   * Max: 90
+   * Recover: 1 per 3m
+* Time Limited?
 *
 * __Payment__
 * Shop?
@@ -57,11 +63,16 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common
-  * Premium
+  * Common: Gold
+  * Premium: Crystals
+  * Golden Stars
 * Equipment
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

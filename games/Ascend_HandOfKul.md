@@ -1,28 +1,32 @@
-RIFT 
+Ascend: Hand of Kul 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Info Links: http://ascend-hand-of-kul.wikia.com/wiki/Ascend:_Hand_of_Kul_Wiki
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows)
+* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.07.31 13:57:39
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: 
+* _Genre RPG, Strategy, Action, Shooter_
 *
 * __Actions__
 * Combat
   * Same Screen
   * Real Time
-  * Move, Jump, Ability
+  * Move, Leap, Attack, Heavy Attack, Spell, Eat, Call Humans, Release Humans, Stomp, Throw, Shake Off
+* Combo
+* Convert Altar
+* Destroy Shrine
+* Destroy Lair
+* Multi Wave Defense
 * Crafting?
 *
 * __Social__
@@ -32,17 +36,20 @@ Patterns
 *
 * __Progress__
 * XP Level
-* Classes?
+* Alignment
+  * Dark: Fire, damage, low speed
+  * Void: Ice, 
+  * Light: Lightning, speed, crit
 * Skills?
-* Abilities?
+* Abilities
+  * As: Spells
 * Quests
-* Achievements?
-* Collection
+* Achievements
+* Lore
 *
 * __Motivators__
 * Rewards?
-* Daily Quests
-* Time Limited Events
+* Time Limited?
 *
 * __Payment__
 * Shop?
@@ -57,11 +64,16 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common
+  * Common: Souls
   * Premium
 * Equipment
+* Durability
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

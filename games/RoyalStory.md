@@ -1,7 +1,7 @@
 Royal Story 
 ===============================================================================
 * Play Links: https://apps.facebook.com/playroyalstory/
-* Info Links:
+* Info Links: http://support-rs.funplusgame.com/?game=royalstory - http://royalstory.lima-city.de/
 * Screenshots:
 * Videos:
 * Created by:
@@ -29,8 +29,13 @@ Patterns
   * Plant
   * Tree
   * Animal
+* Big Plot
+  * As: Royal Plot
+  * Size: 2*2
+  * Plant: 5
+  * Gather: 5 + plotLvl
 * Plot Limit
-  * 30
+  * 30 + f(lvl)
 * Drag to Multi Plot
 * Plant Phases
   * Plant, CD, Gather
@@ -40,6 +45,8 @@ Patterns
   * Tree, Grass
 * Water Farm
   * Animal, Tree?
+* Animal Variants
+  * Cosmetic, Stats (CD, Phase Size)
 * Buy Debris
 * Produce Resource
   * As: Feed Animal
@@ -68,7 +75,9 @@ Patterns
 * Quests for Units
   * As: Mystic Garden
 * Random Item Quest
-  * As: Air Port Board
+  * As: Air Port Board, Fish Order, Unit Order
+* Reroll Quest
+  * Cost: CD 15m
 * Achievements?
 * Unlock Zones
   * Squares
@@ -83,6 +92,10 @@ Patterns
   * As: Dragon
   * Max: 5
   * Recover: 1/3m
+* Crafting Energy
+  * As: Magic
+  * Max: 20
+  * Recover: 1 per 3m
 * Daily Reward
   * Max: 5d
 * Daily Actions

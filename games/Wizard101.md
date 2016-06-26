@@ -1,28 +1,29 @@
-RIFT 
+Wizard101 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Play Links: https://www.wizard101.com/
+* Info Links: http://www.wizard101central.com/wiki/Wizard101_Wiki - http://www.legendsofthespiral.com/?page=guides&guideid=370
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Native (Windows)
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.12.10 12:18:33
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: Wizard School
+* CCG, RPG
 *
 * __Actions__
 * Combat
-  * Same Screen
-  * Real Time
-  * Move, Jump, Ability
+  * New Screen
+  * Turns
+  * Cast Spell
+* Healing
+  * Pickup
 * Crafting?
 *
 * __Social__
@@ -32,22 +33,34 @@ Patterns
 *
 * __Progress__
 * XP Level
-* Classes?
+* Schools
+  * Storm: Diviner, +atk, -def
+  * Myth: Conjurer, solo, summon
+  * Life: Theurgist, heal
+  * Fire: Pyromancer, DoT
+  * Ice: Thaumaturge, +def, -atk
+  * Balance: Sorcerer, adjust rules of combat
+  * Death: Necromancer, drain
+* Class Quiz
+* Choose Before Know
 * Skills?
-* Abilities?
+* Abilities
+  * As: Spells
+  * Get
+    * Free (Primary School)
+    * Training Points
 * Quests
 * Achievements?
-* Collection
 *
 * __Motivators__
 * Rewards?
-* Daily Quests
-* Time Limited Events
+* Time Limited?
 *
 * __Payment__
 * Shop?
 * VIP for Paying?
 * Pay To Use?
+* Paid Locations
 *
 * __World__
 * Location
@@ -62,6 +75,12 @@ Patterns
 * Equipment
 *
 * __Implementation__
+* Password
+  * Not Saved
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

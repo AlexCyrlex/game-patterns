@@ -1,28 +1,28 @@
-RIFT 
+Party of Heroes 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows)
+* Tech: Unity 
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.10.23 14:38:15
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: Fantasy, Demon Lord
+* Team RPG
 *
 * __Actions__
 * Combat
-  * Same Screen
+  * New Screen
   * Real Time
-  * Move, Jump, Ability
+  * Attack, Ability
+* Consume Unit
 * Crafting?
 *
 * __Social__
@@ -32,16 +32,21 @@ Patterns
 *
 * __Progress__
 * XP Level
-* Classes?
+* Classes
+  * Gladiator
+  * Shambler
 * Skills?
 * Abilities?
-* Quests
+* Quests?
 * Achievements?
-* Collection
+* Start Strong Lose All
 *
 * __Motivators__
 * Rewards?
-* Daily Quests
+* Energy
+  * Max: 6
+  * Recover: 1 per 1m
+  * Use: 1 per battle
 * Time Limited Events
 *
 * __Payment__
@@ -60,8 +65,15 @@ Patterns
   * Common
   * Premium
 * Equipment
+* Rarity
+  * Name: Common, Rare, Epic, Legendary, Mystical
+  * Stars: 1-5
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

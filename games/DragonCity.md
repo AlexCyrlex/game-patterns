@@ -1,28 +1,32 @@
-RIFT 
+Dragon City 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Info Links: http://www.dragoncityegg.net/dragon-city-breeding-guide/ - http://dragoncityguide.net/ - http://dragoncity.wikia.com/wiki/Dragon_City_Wiki
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows)
+* Tech: Flash 
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.09.14 12:11:00 - few years ago
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: Dragons
+* Breeding
+* Similar
+  * Pokemon
 *
 * __Actions__
 * Combat
-  * Same Screen
-  * Real Time
-  * Move, Jump, Ability
+  * New Screen
+  * Turns
+  * Formation: List(3)
+  * Use Ability
+* Produce Resource
+* Breed
 * Crafting?
 *
 * __Social__
@@ -31,18 +35,16 @@ Patterns
 * Friends?
 *
 * __Progress__
-* XP Level
+* Level?
 * Classes?
 * Skills?
 * Abilities?
-* Quests
+* Quests?
 * Achievements?
-* Collection
 *
 * __Motivators__
 * Rewards?
-* Daily Quests
-* Time Limited Events
+* Time Limited?
 *
 * __Payment__
 * Shop?
@@ -62,6 +64,10 @@ Patterns
 * Equipment
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

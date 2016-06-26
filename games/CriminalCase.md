@@ -1,28 +1,30 @@
-RIFT 
+Criminal Case 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Play Links: https://apps.facebook.com/criminalcase/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows)
+* Tech: Flash 
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.10.11 17:23:41 - few years ago
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: Police
+* Hidden Objects
+  * Items: 6, 8, 
+  * Visible: 6
 *
 * __Actions__
+* HO Target
+  * Ask: Name
+  * Hover: Shape
+  * Timed: Image
 * Combat
-  * Same Screen
-  * Real Time
-  * Move, Jump, Ability
 * Crafting?
 *
 * __Social__
@@ -35,14 +37,15 @@ Patterns
 * Classes?
 * Skills?
 * Abilities?
-* Quests
+* Quests?
 * Achievements?
-* Collection
 *
 * __Motivators__
-* Rewards?
-* Daily Quests
-* Time Limited Events
+* Daily Rewards
+* Energy
+  * Max: 110
+  * Recover: 1 per 3m20s
+* Time Limited?
 *
 * __Payment__
 * Shop?
@@ -57,11 +60,15 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common
-  * Premium
+  * Common: Coins
+  * Premium: Cash
 * Equipment
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

@@ -1,7 +1,7 @@
 Marvel Heroes 2015 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://marvelheroes.wikia.com/wiki/Marvel_Heroes_Wiki - http://marvelheroes.gamepedia.com/Chapter_1 
+* Info Links: http://marvelheroes.wikia.com/wiki/Marvel_Heroes_Wiki - http://marvelheroes.gamepedia.com/Chapter_1 - http://marvelheroes.info/
 * Screenshots:
 * Videos:
 * Created by:

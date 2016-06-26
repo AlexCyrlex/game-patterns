@@ -1,47 +1,62 @@
-RIFT 
+Spellstone 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Play Links: http://www.kongregate.com/games/synapticon/spellstone
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows)
+* Tech: Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2016.01.26 08:28:29 (01.2)
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: Fantasy
+* CCG
+* Similar
+  * Tyrant
 *
 * __Actions__
 * Combat
-  * Same Screen
-  * Real Time
-  * Move, Jump, Ability
-* Crafting?
+  * New Screen
+  * Turn
+  * Play Card
+  * Manual
+* Deck
+  * Max: 15
+* Hand
+  * Size: 3
+  * Draw: 1
+  * Play: 1
+* Phases
+  * Play
+  * Attack
+* Upgrade Card
+  * Cost: Arcane Dust
+* Fuse Cards
+* Salvage Card
+  * Result: Arcane Dust
 *
 * __Social__
-* PVP?
-* Guild?
+* Async PVP
+* Guild
 * Friends?
 *
 * __Progress__
 * XP Level
+  * For: Character, Bounty
 * Classes?
 * Skills?
 * Abilities?
 * Quests
 * Achievements?
-* Collection
 *
 * __Motivators__
+* Energy
 * Rewards?
-* Daily Quests
 * Time Limited Events
 *
 * __Payment__
@@ -59,9 +74,13 @@ Patterns
 * Currency
   * Common
   * Premium
-* Equipment
+* No Equipment
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

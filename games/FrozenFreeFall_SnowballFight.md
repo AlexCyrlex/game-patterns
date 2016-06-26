@@ -1,28 +1,30 @@
-RIFT 
+Frozen Free Fall: Snowball Fight 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows)
+* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.09.19 13:37:50
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: 
+* Match 3
 *
 * __Actions__
-* Combat
-  * Same Screen
-  * Real Time
-  * Move, Jump, Ability
+* Match 3
+  * Row 4: Tile (clear row/column)
+  * Row 5: Tile (remove all one color)
+  * L-T: Tile (remove near)
+* Combine Special Tiles
+* Powerup
+  * Remove 1 Tile
 * Crafting?
 *
 * __Social__
@@ -31,18 +33,16 @@ Patterns
 * Friends?
 *
 * __Progress__
-* XP Level
+* Level?
 * Classes?
 * Skills?
 * Abilities?
-* Quests
+* Quests?
 * Achievements?
-* Collection
 *
 * __Motivators__
 * Rewards?
-* Daily Quests
-* Time Limited Events
+* Time Limited?
 *
 * __Payment__
 * Shop?
@@ -62,6 +62,10 @@ Patterns
 * Equipment
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

@@ -1,7 +1,7 @@
 Klondike 
 ===============================================================================
 * Play Links: https://apps.facebook.com/klondikegame/
-* Info Links: http://klondike.wikia.com/wiki/Guides - http://4klondike.com/en/collections/C_9.html
+* Info Links: http://klondike.wikia.com/wiki/Guides - http://4klondike.com/en/collections/C_9.html - https://sites.google.com/site/klondikelibrary/home - http://www.itforhumanity.com/wiki/index.php/Klondike
 * Screenshots:
 * Videos:
 * Created by:
@@ -95,6 +95,8 @@ Patterns
   * Reason: Quest Rewards
 * Current Energy Requirement
   * For: Clear Tree, Rock
+* Energy Bonus
+  * Aery: 30
 * Food
 *
 * __Payment__

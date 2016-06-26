@@ -1,28 +1,30 @@
-RIFT 
+Spiral Knights 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows)
+* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.08.27 15:41:24
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
+* Theme: Space 
 * RPG
-* Themepark
 *
 * __Actions__
 * Combat
   * Same Screen
   * Real Time
-  * Move, Jump, Ability
+  * Move, Attack, Charge Attack, Defend, Switch Weapon
+* Pick and Throw
+* Healing
+  * Pickup
 * Crafting?
 *
 * __Social__
@@ -31,18 +33,18 @@ Patterns
 * Friends?
 *
 * __Progress__
-* XP Level
+* Level?
 * Classes?
+* Multiple Characters
+  * 3
 * Skills?
 * Abilities?
 * Quests
 * Achievements?
-* Collection
 *
 * __Motivators__
 * Rewards?
-* Daily Quests
-* Time Limited Events
+* Time Limited?
 *
 * __Payment__
 * Shop?
@@ -51,6 +53,10 @@ Patterns
 *
 * __World__
 * Location
+* Switches
+  * Stand 
+  * Throw
+* Locked Doors and Keys
 * NPC? 
 * Map?
 * Travel?
@@ -62,6 +68,10 @@ Patterns
 * Equipment
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

@@ -1,48 +1,66 @@
-RIFT 
+Devilian 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Info Links: http://www.deviliandb.com/
 * Screenshots:
 * Videos:
-* Created by:
+* Created by: Trion Worlds
 * Tech: Native (Windows)
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.11.14 21:42:30
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
-* RPG
-* Themepark
+* Theme: 
+* _Genre RPG, Strategy, Action, Shooter_
 *
 * __Actions__
 * Combat
   * Same Screen
   * Real Time
-  * Move, Jump, Ability
+  * Move, Dash, Ability
+* Switch Form
+  * As: Devilian Form
+* Death Penalty
+  * Lose 5 Soul
+    * Pay Healer to Recover
+  * Teleport to village
+    * Pay to Revive Here
+* Auto Run
 * Crafting?
 *
 * __Social__
 * PVP?
 * Guild?
-* Friends?
+* Friends
+  * Max: 100
+* Gifts
+  * Max: 10 daily
+  * Online Only
 *
 * __Progress__
 * XP Level
-* Classes?
+* Classes
+  * Evoker
+  * Berserker
+  * Shadowhunter
+  * Cannoneer
+* Multiple Characters
+  * Free: 2
 * Skills?
-* Abilities?
+* Abilities
 * Quests
+  * Story
+  * Basic
+  * Learn
 * Achievements?
-* Collection
 *
 * __Motivators__
-* Rewards?
-* Daily Quests
-* Time Limited Events
+* Daily Reward
+* Time Limited?
 *
 * __Payment__
 * Shop?
@@ -51,6 +69,7 @@ Patterns
 *
 * __World__
 * Location
+* Elite Spawn
 * NPC? 
 * Map?
 * Travel?
@@ -62,6 +81,10 @@ Patterns
 * Equipment
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

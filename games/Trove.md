@@ -1,7 +1,7 @@
 Trove 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://www.reddit.com/r/Trove/wiki/index - http://trove.gamepedia.com/Trove_Wiki - http://trove.wikia.com/wiki/Trove_Wiki
+* Info Links: http://www.reddit.com/r/Trove/wiki/index - http://trove.gamepedia.com/Trove_Wiki - http://trove.wikia.com/wiki/Trove_Wiki - http://www.trovehq.com/ - https://waitingforrez.wordpress.com/2015/06/06/is-trove-a-shallow-grind/
 * Screenshots:
 * Videos:
 * Created by:
@@ -29,6 +29,9 @@ Patterns
   * Charges: 2 - 13 - ...
   * Effect: Full HP
   * Refill: Station
+* Death Penalty
+  * Lose 50 Magic Find
+  * Recover: kill enemies (1 per kill)
 
 Lists 
 ===============================================================================

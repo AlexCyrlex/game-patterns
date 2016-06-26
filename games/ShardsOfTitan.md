@@ -1,28 +1,30 @@
-RIFT 
+Shards of Titan 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://www.rifthead.com/ - http://rift.zam.com/wiki/ - http://rift.wikia.com/wiki/Rift_Wiki - http://telarapedia.gamepedia.com/Rift_Wiki - http://forums.riftgame.com/game-discussions/adventures-telara/297796-my-rift-artifact-hunting-guide.html - http://www.freemmoguides.com/rift/rift-artifacts-guide/ - http://www.gameshampoo.com/database/rift/questsdb.php - http://rift.magelo.com/en/ - http://riftgrate.com/ - http://rift.gaiscioch.com/guides/mathosia/
+* Info Links:
 * Screenshots:
 * Videos:
-* Created by:
-* Tech: Native (Windows)
+* Created by: Codename Entertainment
+* Tech: Flash 
 * Dates:
   * Public Access: 
-  * Started: 2014.10.13 21:35:38
+  * Started: 2015.09.14 16:06:44
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy, Planes
+* Theme: Fantasy
 * RPG
-* Themepark
+* Similar
+  * League of Angels
 *
 * __Actions__
 * Combat
   * Same Screen
-  * Real Time
-  * Move, Jump, Ability
+  * Turns
+  * Attack, Use Ability
+* Build City
 * Crafting?
 *
 * __Social__
@@ -31,18 +33,20 @@ Patterns
 * Friends?
 *
 * __Progress__
-* XP Level
-* Classes?
+* Level?
+* Classes
+  * Warrior
+  * Ranger
+  * Wizard
 * Skills?
 * Abilities?
-* Quests
+* Quests?
 * Achievements?
-* Collection
 *
 * __Motivators__
-* Rewards?
-* Daily Quests
-* Time Limited Events
+* Daily Actions
+* Monthly Daily Reward
+* Time Limited?
 *
 * __Payment__
 * Shop?
@@ -57,11 +61,18 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common
+  * Common: Gold
   * Premium
+  * Lumber
+  * Companion XP
 * Equipment
+   * Head, Chest, Gloves, Weapon, Feet, Neck, Ring *2, Pants, Cape
 *
 * __Implementation__
+
+New Ideas
+===============================================================================
+* _Patterns that appear new_
 
 Lists 
 ===============================================================================

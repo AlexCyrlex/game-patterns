@@ -1,7 +1,7 @@
 Clicker Heroes 
 ===============================================================================
 * Play Links: http://www.kongregate.com/games/Playsaurus/clicker-heroes  
-* Info Links: http://www.kongregate.com/forums/2737-clicker-heroes/topics/433518-ambroses-tutorial-with-pictures-links-and-more - http://clickerheroes.wikia.com/wiki/ClickerHeroes_Wiki - http://www.reddit.com/r/ClickerHeroes/comments/2goxa8/tier_list_for_ancients_v1/ - http://s3-us-west-2.amazonaws.com/clickerheroes/ancientssoul.html - https://marakesh.pythonanywhere.com/clicker_heroes/default/calculator_v1
+* Info Links: http://www.kongregate.com/forums/2737-clicker-heroes/topics/433518-ambroses-tutorial-with-pictures-links-and-more - http://clickerheroes.wikia.com/wiki/ClickerHeroes_Wiki - http://www.reddit.com/r/ClickerHeroes/comments/2goxa8/tier_list_for_ancients_v1/ - http://s3-us-west-2.amazonaws.com/clickerheroes/ancientssoul.html - https://marakesh.pythonanywhere.com/clicker_heroes/default/calculator_v1 - http://www.rivsoft.net/clicker/ancientssoul
 * Screenshots:
 * Videos:
 * Created by: Playsaurus
