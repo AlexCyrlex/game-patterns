@@ -1,7 +1,7 @@
 Wizard101 
 ===============================================================================
 * Play Links: https://www.wizard101.com/
-* Info Links: http://www.wizard101central.com/wiki/Wizard101_Wiki - http://www.legendsofthespiral.com/?page=guides&guideid=370
+* Info Links: http://www.wizard101central.com/wiki/Wizard101_Wiki - http://www.legendsofthespiral.com/?page=guides&guideid=370 - http://wizard101.wikia.com/wiki/Health_and_Mana - https://www.wizard101.com/w101playersguide
 * Screenshots:
 * Videos:
 * Created by:
@@ -24,6 +24,8 @@ Patterns
   * Cast Spell
 * Healing
   * Pickup
+  * Flask
+  * Regen: Slow, Not Mana
 * Crafting?
 *
 * __Social__

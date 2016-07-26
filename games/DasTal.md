@@ -1,39 +1,34 @@
-Terraria 
+Das Tal 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://terraria.wikia.com/wiki/Terraria_Wiki - http://www.gamefaqs.com/boards/630609-terraria
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
+* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.07.17 11:51:50
+  * Closed Alpha: 2016.07.16
+  * Started: 2016.07.19 16:29:08
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: 
-* Survival
-* Gather
-* Platformer
-* Similar: Minecraft
+* Theme: Prison Break, Desert
+* Sandbox
 *
 * __Actions__
 * Combat
   * Same Screen
   * Real Time
-  * Move, Jump, Attack
-* HP Regen
-* Gather
-* Tools
-  * Pick
-  * Axe
-* Cannot Hang in Air
-* Day and Night
+  * Move, Ability
+* Healing
+  * Passive Regen
+  * Abilities
 * Crafting
-  * Recipe: Furniture, Enough Parts
+  * Recipe: Building
+  * Cost: None
 *
 * __Social__
 * PVP?
@@ -41,10 +36,22 @@ Patterns
 * Friends?
 *
 * __Progress__
-* Level?
-* Classes?
+* XP Level
+* Partial Classes
+  * Weapon + Armor
+* Classes
+  * Weapon
+    * Staff
+    * Totem
+    * Scythe
+    * Bow
+    * Spear and shield
+  * Armor
+    * Robe
+    * Leather
+    * Splint
 * Skills?
-* Abilities?
+* Abilities
 * Quests?
 * Achievements?
 *
@@ -59,6 +66,13 @@ Patterns
 *
 * __World__
 * Location
+* Global Map
+  * Tutorial
+  * Valley
+* Spawn Event
+* Resource Node
+  * As: Carcass, Meteorite
+  * Activate, Capture, Wait, Open
 * NPC? 
 * Map?
 * Travel?
@@ -68,9 +82,6 @@ Patterns
   * Common
   * Premium
 * Equipment
-* Inventory
-  * Size: 10 * 4
-  * Max Stack: 250
 *
 * __Implementation__
 

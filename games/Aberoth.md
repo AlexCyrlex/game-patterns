@@ -1,39 +1,30 @@
-Terraria 
+Aberoth 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: http://terraria.wikia.com/wiki/Terraria_Wiki - http://www.gamefaqs.com/boards/630609-terraria
+* Play Links: http://www.aberoth.com/
+* Info Links: http://bookofaberoth.wikia.com/wiki/New_Player_Guide - http://www.aberoth.com/help.php?steam=0 - http://aberothblog.blogspot.com/p/getting-started-in-aberoth.html
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
+* Tech: HTML5/Canvas, Native (Windows)
 * Dates:
   * Public Access: 
-  * Started: 2015.07.17 11:51:50
+  * Started: 2016.07.11 17:50:41
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: 
-* Survival
-* Gather
-* Platformer
-* Similar: Minecraft
+* Theme: Fantasy
+* RPG
+* Similar
+  * Ultima Online ?
 *
 * __Actions__
 * Combat
   * Same Screen
   * Real Time
-  * Move, Jump, Attack
-* HP Regen
-* Gather
-* Tools
-  * Pick
-  * Axe
-* Cannot Hang in Air
-* Day and Night
-* Crafting
-  * Recipe: Furniture, Enough Parts
+  * Move, Attack
+* Crafting?
 *
 * __Social__
 * PVP?
@@ -41,12 +32,14 @@ Patterns
 * Friends?
 *
 * __Progress__
-* Level?
+* Skill Level
 * Classes?
-* Skills?
+* Skills
+  * Life
 * Abilities?
-* Quests?
-* Achievements?
+* Quests
+* Achievements
+  * No Reward
 *
 * __Motivators__
 * Rewards?
@@ -59,7 +52,14 @@ Patterns
 *
 * __World__
 * Location
-* NPC? 
+* Starting Location
+  * Orc Prison
+* NPC
+  * Inala: Quest
+  * Gomald: Bank
+  * Sholop: Shop
+  * Tavelor: Tavern
+  * Lysis: Life Skill 
 * Map?
 * Travel?
 *
@@ -68,9 +68,6 @@ Patterns
   * Common
   * Premium
 * Equipment
-* Inventory
-  * Size: 10 * 4
-  * Max Stack: 250
 *
 * __Implementation__
 

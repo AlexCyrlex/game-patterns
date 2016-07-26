@@ -1,39 +1,27 @@
-Terraria 
+AdVenture Capitalist 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://terraria.wikia.com/wiki/Terraria_Wiki - http://www.gamefaqs.com/boards/630609-terraria
+* Info Links: http://adventure-capitalist.wikia.com/wiki/AdVenture_Capitalist_Wiki - https://en.wikipedia.org/wiki/Adventure_Capitalist
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
+* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.07.17 11:51:50
+  * Started: 2016.07.11 20:25:43
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: 
-* Survival
-* Gather
-* Platformer
-* Similar: Minecraft
+* Theme: Business
+* Idle Clicker
+* Similar: 
+  * Clicker Heroes
 *
 * __Actions__
-* Combat
-  * Same Screen
-  * Real Time
-  * Move, Jump, Attack
-* HP Regen
-* Gather
-* Tools
-  * Pick
-  * Axe
-* Cannot Hang in Air
-* Day and Night
-* Crafting
-  * Recipe: Furniture, Enough Parts
+* Generator
+* Crafting?
 *
 * __Social__
 * PVP?
@@ -65,12 +53,10 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common
-  * Premium
+  * Common: $?
+  * Premium: Gold
+  * Angel
 * Equipment
-* Inventory
-  * Size: 10 * 4
-  * Max Stack: 250
 *
 * __Implementation__
 
