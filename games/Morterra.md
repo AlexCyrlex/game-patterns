@@ -1,27 +1,28 @@
-AdVenture Capitalist 
+Morterra 
 ===============================================================================
-* Play Links: http://something.com
-* Info Links: http://adventure-capitalist.wikia.com/wiki/AdVenture_Capitalist_Wiki - https://en.wikipedia.org/wiki/Adventure_Capitalist - http://steamcommunity.com/app/346900/discussions/
+* Play Links: http://www.morterra.com/
+* Info Links: 
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2016.07.11 20:25:43
+  * Started: 2016.09.03 01:15:55
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Business
-* Idle Clicker
-* Similar: 
-  * Clicker Heroes
+* Theme: Survival
+* Sandbox
 *
 * __Actions__
-* Generator
-* Crafting?
+* Combat
+  * Same Screen
+  * Real Time
+* Crafting
+  * Recipe: Guess Combo, Ingredient 
 *
 * __Social__
 * PVP?
@@ -53,10 +54,10 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: $?
-  * Premium: Gold
-  * Angel
+  * Common
+  * Premium
 * Equipment
+  * Weapon, Shield, Backpack, Helm, Armor, Pants
 *
 * __Implementation__
 

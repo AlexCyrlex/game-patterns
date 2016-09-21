@@ -1,36 +1,43 @@
-AdVenture Capitalist 
+Battlerite 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://adventure-capitalist.wikia.com/wiki/AdVenture_Capitalist_Wiki - https://en.wikipedia.org/wiki/Adventure_Capitalist - http://steamcommunity.com/app/346900/discussions/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2016.07.11 20:25:43
+  * Started: 2016.09.17 03:25:15
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Business
-* Idle Clicker
-* Similar: 
-  * Clicker Heroes
+* Theme: Fantasy
+* Action
 *
 * __Actions__
-* Generator
+* Combat
+  * Same Screen
+  * Real Time
+  * Move, Use Ability
+* Combat Bonus
+  * As: Battlerite
+  * Choose 1 of 3 (or 2 for last round)
+  * Each Round
 * Crafting?
 *
 * __Social__
-* PVP?
+* PVP Only
 * Guild?
 * Friends?
 *
 * __Progress__
-* Level?
-* Classes?
+* Hero XP Level
+* Switch Hero
+* Cosmetic Items
+  * Outfit, Weapon, Pose, Avatar
 * Skills?
 * Abilities?
 * Quests?
@@ -53,9 +60,8 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: $?
-  * Premium: Gold
-  * Angel
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__

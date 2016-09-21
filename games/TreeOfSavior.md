@@ -1,7 +1,7 @@
 Tree of Savior 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://www.tosbase.com/game/classes/
+* Info Links: http://www.tosbase.com/game/classes/ - http://www.gameskinny.com/games/tree-of-savior/ - http://www.gameskinny.com/ju96h/tree-of-savior-how-to-get-from-orsha-to-klaipeda-and-vice-versa - https://www.reddit.com/r/treeofsavior/ - http://toscamp.com/map_en/map3.8.php - http://2p.com/37110329_1/Tree-of-Savior-Money-Making-Guide-For-Beginners-by-AnotherInfinity.htm - https://forum.treeofsavior.com/t/guide-swordsmans-battle-manual-all-classes-by-cathexis/153860 - https://tinyurl.com/jzmwbve
 * Screenshots:
 * Videos:
 * Created by:
@@ -24,8 +24,10 @@ Patterns
 * Combat
   * Same Screen
   * Real Time
-  * Move, Jump, Attack
-* Crafting?
+  * Move, Jump, Attack, Ability
+* Crafting
+  * Recipe: Drops
+  * Where: Rest
 *
 * __Social__
 * PVP?
@@ -41,14 +43,37 @@ Patterns
   * Archer
   * Wizard
   * Cleric
+* Partial Class
+  * Number: 7
+    * As: Rank
+  * Restriction: 
+    * First Class  
+    * Starting Rank 
+    * Max Repeat: 3
+      * As: Circle
 * Skills?
 * Abilities?
-* Quests?
-* Achievements?
+* Quests
+  * Main: Gold
+  * Side: Blue
+  * Repeatable: Green
+* Repeatable Quests
+  * Repeats: 5, 10
+* Event Quest
+  * Find Moving NPC
+    * Known: Zone
+  * Find Treasure
+    * Known: Zone, Circle around location, Clue (nearby objects) 
+* Achievements
+  * Reward: Title
+* Collection
+  * Unlock: Get Item, Go to NPC
+  * Items: Monster Drops
+  * Reward: Bonus
 *
 * __Motivators__
 * Rewards?
-* Time Limited?
+* Time Limited Event
 *
 * __Payment__
 * Shop?

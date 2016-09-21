@@ -1,27 +1,28 @@
-AdVenture Capitalist 
+Akhra: The Treasures 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://adventure-capitalist.wikia.com/wiki/AdVenture_Capitalist_Wiki - https://en.wikipedia.org/wiki/Adventure_Capitalist - http://steamcommunity.com/app/346900/discussions/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2016.07.11 20:25:43
+  * Started: 2016.08.28 19:29:05
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Business
-* Idle Clicker
-* Similar: 
-  * Clicker Heroes
+* Theme: Archeologist
+* Match 3
 *
 * __Actions__
-* Generator
-* Crafting?
+* Jigsaw
+  * Rotate
+* Gather Resources
+  * Make Matches
+* Crafting
 *
 * __Social__
 * PVP?
@@ -53,9 +54,8 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: $?
-  * Premium: Gold
-  * Angel
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__

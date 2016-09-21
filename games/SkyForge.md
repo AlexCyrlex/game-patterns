@@ -1,7 +1,7 @@
 SkyForge 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: https://www.reddit.com/r/Skyforge/ - http://orcz.com/Skyforge:_Promo_Codes - 
+* Info Links: https://www.reddit.com/r/Skyforge/ - http://orcz.com/Skyforge:_Promo_Codes - https://docs.google.com/spreadsheets/d/1PILtl9xqz9kKb8RnBFcsLxjCUzezUVkt1ytFWHrkAxg/edit#gid=695486770 - http://sfam.shivtr.com/forum_threads/2487208?last_or_unread=true
 * Screenshots:
 * Videos:
 * Created by:

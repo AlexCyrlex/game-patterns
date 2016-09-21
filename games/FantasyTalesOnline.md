@@ -1,26 +1,27 @@
-AdVenture Capitalist 
+Fantasy Tales Online 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://adventure-capitalist.wikia.com/wiki/AdVenture_Capitalist_Wiki - https://en.wikipedia.org/wiki/Adventure_Capitalist - http://steamcommunity.com/app/346900/discussions/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2016.07.11 20:25:43
+  * Started:
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Business
-* Idle Clicker
-* Similar: 
-  * Clicker Heroes
+* Theme: Fantasy
+* RPG
 *
 * __Actions__
-* Generator
+* Combat
+  * Same Screen
+  * Real Time
+  * Move, Attack, Ability, Item
 * Crafting?
 *
 * __Social__
@@ -29,8 +30,11 @@ Patterns
 * Friends?
 *
 * __Progress__
-* Level?
-* Classes?
+* XP Level
+* Classes
+  * Medic
+  * Brute
+  * Assassin
 * Skills?
 * Abilities?
 * Quests?
@@ -46,16 +50,16 @@ Patterns
 * Pay To Use?
 *
 * __World__
-* Location
-* NPC? 
+* Connected Locations
+* NPC
+  * Shop 
 * Map?
 * Travel?
 *
 * __Things__
 * Currency
-  * Common: $?
-  * Premium: Gold
-  * Angel
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__

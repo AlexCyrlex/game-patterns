@@ -1,26 +1,24 @@
-AdVenture Capitalist 
+RuneScape: Idle Adventures 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://adventure-capitalist.wikia.com/wiki/AdVenture_Capitalist_Wiki - https://en.wikipedia.org/wiki/Adventure_Capitalist - http://steamcommunity.com/app/346900/discussions/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2016.07.11 20:25:43
+  * Started: 2016.09.04 16:29:19
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Business
+* Theme: Fantasy, RuneScape
 * Idle Clicker
-* Similar: 
-  * Clicker Heroes
 *
 * __Actions__
-* Generator
+* Combat
 * Crafting?
 *
 * __Social__
@@ -31,7 +29,7 @@ Patterns
 * __Progress__
 * Level?
 * Classes?
-* Skills?
+* Skill Level
 * Abilities?
 * Quests?
 * Achievements?
@@ -53,9 +51,8 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: $?
-  * Premium: Gold
-  * Angel
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__

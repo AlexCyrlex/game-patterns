@@ -1,26 +1,33 @@
-AdVenture Capitalist 
+Great Secrets - Da Vinci 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://adventure-capitalist.wikia.com/wiki/AdVenture_Capitalist_Wiki - https://en.wikipedia.org/wiki/Adventure_Capitalist - http://steamcommunity.com/app/346900/discussions/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2016.07.11 20:25:43
+  * Started: 2016.08.27 14:51:31
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Business
-* Idle Clicker
-* Similar: 
-  * Clicker Heroes
+* Theme: Da Vinci
+* Hidden Object
 *
 * __Actions__
-* Generator
+* Mode
+  * Names
+    * Total: 20
+    * Visible: 5
+  * Type
+    * Total: 10
+* Time Limit: 10m
+* Hint
+  * Show Object
+  * Cost: CD
 * Crafting?
 *
 * __Social__
@@ -53,9 +60,8 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: $?
-  * Premium: Gold
-  * Angel
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__

@@ -1,26 +1,33 @@
-AdVenture Capitalist 
+Battle for Blood - Epic Battles within 30 seconds 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://adventure-capitalist.wikia.com/wiki/AdVenture_Capitalist_Wiki - https://en.wikipedia.org/wiki/Adventure_Capitalist - http://steamcommunity.com/app/346900/discussions/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
+* Tech:  Unity 
 * Dates:
   * Public Access: 
-  * Started: 2016.07.11 20:25:43
+  * Started: 2016.08.01 23:07:58
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Business
-* Idle Clicker
-* Similar: 
-  * Clicker Heroes
+* Theme: Fantasy
+* Match 3
 *
 * __Actions__
-* Generator
+* Combat
+  * Only Screen
+  * Real Time
+  * Summon Unit, Use Item
+* Match 3
+  * Summon Unit
+  * 3: 1
+  * 4: 2
+  * T, L: 3
+  * 5: 4
 * Crafting?
 *
 * __Social__
@@ -29,7 +36,12 @@ Patterns
 * Friends?
 *
 * __Progress__
-* Level?
+* Upgrades
+  * Unit
+  * Camp
+  * Item
+* Unlock Unit
+* Map Level
 * Classes?
 * Skills?
 * Abilities?
@@ -53,9 +65,12 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: $?
-  * Premium: Gold
-  * Angel
+  * Common: Silver
+  * Premium
+* Army Restriction
+  * Sum(Unit Chance) > 100
+  * Requires to take larger number units if they are rare 
+  * Which is bad, because more colors in Match-3
 * Equipment
 *
 * __Implementation__

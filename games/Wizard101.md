@@ -65,16 +65,26 @@ Patterns
 * Paid Locations
 *
 * __World__
-* Location
-* NPC? 
-* Map?
-* Travel?
+* Connected Locations
+  * Combat, Non-combat
+* Tower
+  * Golem Tower
+* NPC
+* Map
+  * Drawn
+  * Icon: NPC, Exit
+* Travel
+  * Run
+  * Teleport Home
+* Personal Location
+  * As: Dorm, Housing
 *
 * __Things__
 * Currency
-  * Common
-  * Premium
+  * Common: Gold
+  * Premium: Crowns
 * Equipment
+  * Head, Body, Feet, Wand, Ring
 *
 * __Implementation__
 * Password

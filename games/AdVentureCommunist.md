@@ -1,26 +1,24 @@
-AdVenture Capitalist 
+AdVenture Communist 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://adventure-capitalist.wikia.com/wiki/AdVenture_Capitalist_Wiki - https://en.wikipedia.org/wiki/Adventure_Capitalist - http://steamcommunity.com/app/346900/discussions/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2016.07.11 20:25:43
+  * Started: 2016.09.14 23:51:00
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Business
+* Theme: Communism
 * Idle Clicker
-* Similar: 
-  * Clicker Heroes
 *
 * __Actions__
-* Generator
+* Combat
 * Crafting?
 *
 * __Social__
@@ -35,6 +33,13 @@ Patterns
 * Abilities?
 * Quests?
 * Achievements?
+* Rebirth
+  * As: Final Industry
+  * For: Single Resource
+  * Cost: Number of previous industries
+  * Lose: Resource and Generators
+  * Keep: Unlocks?
+  * Get: Final Industry Production Increase (Scientist)
 *
 * __Motivators__
 * Rewards?
@@ -52,10 +57,8 @@ Patterns
 * Travel?
 *
 * __Things__
-* Currency
-  * Common: $?
-  * Premium: Gold
-  * Angel
+* Resource: Potatoes, Land, Ore, Weapons, Medicine
+* High Order Generator
 * Equipment
 *
 * __Implementation__
