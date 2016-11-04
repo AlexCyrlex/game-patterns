@@ -1,7 +1,7 @@
 Spirit Lords 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links:
+* Info Links: http://spiritlords.gamepedia.com/Spirit_Lords_Wiki
 * Screenshots:
 * Videos: https://www.youtube.com/watch?v=KrworASwQes
 * Created by:
@@ -10,7 +10,7 @@ Spirit Lords
   * Public Access: 
   * Started: 2015.04.30 10:20:31
   * Last Update:
-  * Closed: still active 
+  * Closed: 2016.07.08 http://toucharcade.com/2016/05/10/spirit-lords-server-shutdown/ 
 
 Patterns 
 ===============================================================================

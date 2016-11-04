@@ -73,7 +73,8 @@ Patterns
 *
 * __World__
 * Location
-* NPC? 
+* NPC
+  * Flavius: god researcher
 * Map?
 * Travel?
 *
