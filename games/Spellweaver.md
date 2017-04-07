@@ -1,4 +1,4 @@
-SolForge 
+Spellweaver 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,24 +8,28 @@ SolForge
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.11 12:20:37
+  * Started: 2017.03.28 22:16:13
   * Last Update:
-  * Closed: 2017.01.31 (then reopened http://solforgegame.com/news/solforge-servers-update/ ) 
+  * Closed: still active 
 
 Patterns 
 ===============================================================================
 * Theme: Fantasy
 * CCG
+* Similar
+  * Magic the Gathering
+    * Resource Cards
+    * Instant Spells
+    * Heal Each Turn
+  * Heartstone
+    * Second player gets token for 1 mana
 *
 * __Actions__
 * Combat
-* Play
-  * 2 Cards per Turn
-  * Discard Not Played
-* No Combat Resource
-* Level Up Played
-* Attack Phase
-  * All Active Attack (Self, Enemy)
+  * New Screen
+  * Turns
+  * Play Card, Attack
+* Phases
 * Crafting?
 *
 * __Social__
@@ -42,18 +46,13 @@ Patterns
 * Achievements?
 *
 * __Motivators__
-* Daily Rewards
-  * Login, 1 Win, 3 Wins
-  * Reward: Silver, Booster, Ticket
+* Rewards?
 * Time Limited?
 *
 * __Payment__
 * Shop?
 * VIP for Paying?
 * Pay To Use?
-* Booster
-  * Size: 6
-  * Guaranteed: 1 Rare
 *
 * __World__
 * Location
@@ -63,13 +62,8 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: Silver
-  * Premium: Gold
-* Card Types
-  * Creature
-  * Spell
-* Card Rarity
-  * Name: Common, Rare, Heroic, Legendary
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__

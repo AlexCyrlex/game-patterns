@@ -1,3 +1,36 @@
+* 8-Bit Bayonetta
+  * 2017.04.03 16:04:24
+  * Jump, Double Jump, Attack
+* Line of Sight
+  * 2017.03.24 23:30:51
+  * Similar: Counter Strike
+* Voxelized
+  * 2017.03.22 20:25:42
+  * Similar: Minecraft
+* Brain Out
+  * 2017.03.14 21:06:09
+  * Shooter, Sidescrolling
+  * Daily Challenge
+    * Stages: 4
+  * Random Box
+* The Labyrinth
+  * 2017.03.07 19:30:55
+  * Roguelike
+* DED
+  * 2017.03.07 14:26:04
+  * Shooter
+  * Perks
+    * + HP
+    * Recover HP on Kill
+    * + Ammo
+    * + Damage
+    * Movement Speed
+    * Range
+* Fixies The Masters
+  * 2017.02.15 23:41:15
+  * Puzzle
+    * Use Tool
+  * Hidden Object: Resource, Achievement
 * Boom Town
   * http://www.kongregate.com/games/thepodge/boom-town
   * Mine = place explosive, scatter 

@@ -1,4 +1,4 @@
-SolForge 
+goalunited PRO 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,24 +8,19 @@ SolForge
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.11 12:20:37
+  * Started: 2017.03.07 16:38:52
   * Last Update:
-  * Closed: 2017.01.31 (then reopened http://solforgegame.com/news/solforge-servers-update/ ) 
+  * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy
-* CCG
+* Theme: Football
+* Sport Simulation
 *
 * __Actions__
 * Combat
-* Play
-  * 2 Cards per Turn
-  * Discard Not Played
-* No Combat Resource
-* Level Up Played
-* Attack Phase
-  * All Active Attack (Self, Enemy)
+* Build
+  * Fixed
 * Crafting?
 *
 * __Social__
@@ -34,7 +29,7 @@ Patterns
 * Friends?
 *
 * __Progress__
-* Level?
+* XP Level
 * Classes?
 * Skills?
 * Abilities?
@@ -42,18 +37,13 @@ Patterns
 * Achievements?
 *
 * __Motivators__
-* Daily Rewards
-  * Login, 1 Win, 3 Wins
-  * Reward: Silver, Booster, Ticket
+* Rewards?
 * Time Limited?
 *
 * __Payment__
 * Shop?
 * VIP for Paying?
 * Pay To Use?
-* Booster
-  * Size: 6
-  * Guaranteed: 1 Rare
 *
 * __World__
 * Location
@@ -63,13 +53,8 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: Silver
-  * Premium: Gold
-* Card Types
-  * Creature
-  * Spell
-* Card Rarity
-  * Name: Common, Rare, Heroic, Legendary
+  * Common
+  * Premium: Stars
 * Equipment
 *
 * __Implementation__

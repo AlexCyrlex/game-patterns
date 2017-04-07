@@ -1,14 +1,14 @@
 Dungeon Link 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://m.gamevilusa.com/forums/forumdisplay.php?962-Guides-amp-Strategies
+* Info Links: http://m.gamevilusa.com/forums/forumdisplay.php?962-Guides-amp-Strategies - http://dungeonlink.wikia.com/wiki/Dungeon_Link_Wiki - https://www.reddit.com/r/DungeonLink/
 * Screenshots:
 * Videos:
 * Created by: Gamevil
 * Tech: Native (Android, iOS)
 * Dates:
   * Public Access: 
-  * Started: 2015.04.23 11:32
+  * Started: 2015.04.23 11:32 - 2017.01.25 01:02:35
   * Last Update:
   * Closed: still active 
 
@@ -70,6 +70,9 @@ Patterns
   * 5?: Auto Attack
   * 6: PVP
   * 7: Stat Bonus
+  * 10-6: Skip, 5th Team Member
+  * Tower of Magic: lvl 20 Tower of Tribulation
+  * 25-12: Tower of Elements
 *
 * __Motivators__
 * Monthly Reward?

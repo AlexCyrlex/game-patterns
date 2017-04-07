@@ -1,7 +1,7 @@
 Crusaders of the Lost Idols 
 ===============================================================================
 * Play Links: https://apps.facebook.com/lostidols/
-* Info Links: http://crusaders-of-the-lost-idols.wikia.com/wiki/Crusaders_Of_The_Lost_Idols_Wikia
+* Info Links: http://crusaders-of-the-lost-idols.wikia.com/wiki/Crusaders_Of_The_Lost_Idols_Wikia - https://www.reddit.com/r/lostidols/
 * Screenshots:
 * Videos:
 * Created by:
@@ -18,11 +18,13 @@ Patterns
 * Idle
 * Similar
   * Clicker Heroes
-    * Level Quests instead of 10/level
-    * Formation, Closeness effects
-    * Loot Chests
-    * Items
-    * XP points 100% DPS increase per 5h in formation
+    * Diff
+      * Level Quests instead of 10/level
+      * Formation, Closeness effects
+      * Loot Chests
+      * Items
+      * XP points 100% DPS increase per 5h in formation
+      * Collect Heroes
 *
 * __Actions__
 * Combat
@@ -63,9 +65,13 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common
-  * Premium
-* Equipment
+  * Gold: Common
+  * Idols: Rare
+  * Rubies: Premium
+* Stequip
+  * For: Heroes, Player
+  * Slots: 3, 4*4 Abilities
+  * Multiple: No, Yes
 *
 * __Implementation__
 

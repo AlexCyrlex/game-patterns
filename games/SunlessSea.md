@@ -1,31 +1,37 @@
-SolForge 
+Sunless Sea 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links:
+* Info Links: http://sunlesssea.gamepedia.com/Official_Sunless_Sea_Wiki
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.11 12:20:37
+  * Started: 2017.02.19 18:05:36 (free weekend)
   * Last Update:
-  * Closed: 2017.01.31 (then reopened http://solforgegame.com/news/solforge-servers-update/ ) 
+  * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy
-* CCG
+* Theme: Underground Sea, Post Apoc
+* Roguelike, Survival
 *
 * __Actions__
 * Combat
-* Play
-  * 2 Cards per Turn
-  * Discard Not Played
-* No Combat Resource
-* Level Up Played
-* Attack Phase
-  * All Active Attack (Self, Enemy)
+  * Same Screen
+  * Real Time, Pause
+  * Move, Attack
+* Health Bars
+  * Hull
+  * Fuel
+  * Hunger
+  * Terror
+  * Crew
+* Scout Bird
+  * As: Zee-bat
+* Explore
+  * Reward: Fragments
 * Crafting?
 *
 * __Social__
@@ -36,41 +42,43 @@ Patterns
 * __Progress__
 * Level?
 * Classes?
-* Skills?
+* Skills
+  * Iron: Damage
+  * Mirrors: Detection, Perception
+  * Veils: Stealth, Speed
+  * Pages: Knowledge
+  * Hearts: Heal, Defend
+* Pards
+  * As: Fragments -> Secrets
 * Abilities?
-* Quests?
+* Quests
 * Achievements?
+* Permadeath
+* Legacy
 *
 * __Motivators__
-* Daily Rewards
-  * Login, 1 Win, 3 Wins
-  * Reward: Silver, Booster, Ticket
+* Rewards?
 * Time Limited?
 *
 * __Payment__
 * Shop?
 * VIP for Paying?
 * Pay To Use?
-* Booster
-  * Size: 6
-  * Guaranteed: 1 Rare
 *
 * __World__
 * Location
 * NPC? 
-* Map?
+* Map
+  * Unlock As Explored
 * Travel?
 *
 * __Things__
 * Currency
-  * Common: Silver
-  * Premium: Gold
-* Card Types
-  * Creature
-  * Spell
-* Card Rarity
-  * Name: Common, Rare, Heroic, Legendary
+  * Common: Echo
+  * Premium
 * Equipment
+* Crew
+  * As: Officers?
 *
 * __Implementation__
 

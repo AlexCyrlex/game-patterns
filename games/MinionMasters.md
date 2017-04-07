@@ -1,4 +1,4 @@
-SolForge 
+Minion Masters 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,24 +8,23 @@ SolForge
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.11 12:20:37
+  * Started: 2016.11.27 01:17:42
   * Last Update:
-  * Closed: 2017.01.31 (then reopened http://solforgegame.com/news/solforge-servers-update/ ) 
+  * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy
+* Theme: Fantasy, Summon Monsters
 * CCG
+* Similar
+  * Magic the Gathering ???
+    * Collect unit, summon on your part of screen
 *
 * __Actions__
 * Combat
-* Play
-  * 2 Cards per Turn
-  * Discard Not Played
-* No Combat Resource
-* Level Up Played
-* Attack Phase
-  * All Active Attack (Self, Enemy)
+  * New Screen
+  * Real Time
+  * Summon Creature, Cast Spell
 * Crafting?
 *
 * __Social__
@@ -42,20 +41,18 @@ Patterns
 * Achievements?
 *
 * __Motivators__
-* Daily Rewards
-  * Login, 1 Win, 3 Wins
-  * Reward: Silver, Booster, Ticket
+* Rewards?
 * Time Limited?
 *
 * __Payment__
 * Shop?
 * VIP for Paying?
 * Pay To Use?
-* Booster
-  * Size: 6
-  * Guaranteed: 1 Rare
 *
 * __World__
+* Level
+  * Lane: 2
+  * HQ: 1 per player
 * Location
 * NPC? 
 * Map?
@@ -63,13 +60,8 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: Silver
-  * Premium: Gold
-* Card Types
-  * Creature
-  * Spell
-* Card Rarity
-  * Name: Common, Rare, Heroic, Legendary
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__

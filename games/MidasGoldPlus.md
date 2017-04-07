@@ -1,31 +1,33 @@
-SolForge 
+Midas Gold Plus 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links:
+* Info Links: http://midasgoldplus.wikia.com/wiki/Midas%27_Gold_Plus_Wikia
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.11 12:20:37
+  * Started:
   * Last Update:
-  * Closed: 2017.01.31 (then reopened http://solforgegame.com/news/solforge-servers-update/ ) 
+  * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy
-* CCG
+* Theme: Fantasy, Gods, King Midas
+* Idle Clicker
+* Similar
+  * AdVenture Capitalist
+    * Profit Buildings
+    * Upgrades
+  * Clicker Heroes
+    * Catch Premium Drops
+    * Switch between idle and active
 *
 * __Actions__
 * Combat
-* Play
-  * 2 Cards per Turn
-  * Discard Not Played
-* No Combat Resource
-* Level Up Played
-* Attack Phase
-  * All Active Attack (Self, Enemy)
+* Upgrade
+* Research
 * Crafting?
 *
 * __Social__
@@ -38,22 +40,20 @@ Patterns
 * Classes?
 * Skills?
 * Abilities?
-* Quests?
+* CD Quests
+  * As: Raid
 * Achievements?
 *
 * __Motivators__
 * Daily Rewards
-  * Login, 1 Win, 3 Wins
-  * Reward: Silver, Booster, Ticket
+  * Max: 7d
+  * Reset: Miss, Complete
 * Time Limited?
 *
 * __Payment__
 * Shop?
 * VIP for Paying?
 * Pay To Use?
-* Booster
-  * Size: 6
-  * Guaranteed: 1 Rare
 *
 * __World__
 * Location
@@ -63,13 +63,8 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: Silver
-  * Premium: Gold
-* Card Types
-  * Creature
-  * Spell
-* Card Rarity
-  * Name: Common, Rare, Heroic, Legendary
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__

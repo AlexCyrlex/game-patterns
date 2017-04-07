@@ -1,31 +1,28 @@
-SolForge 
+WildStar 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links:
+* Info Links: http://wildstar.gamepedia.com/WildStar_Wiki - https://forums.wildstar-online.com/forums/ - https://www.reddit.com/r/WildStar/
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.11 12:20:37
+  * Started: 2016.12.07 00:54:28
   * Last Update:
-  * Closed: 2017.01.31 (then reopened http://solforgegame.com/news/solforge-servers-update/ ) 
+  * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy
-* CCG
+* Theme: Sci-Fi, Planetary, Empire vs Rebels 
+* MMORPG, Themepark
 *
 * __Actions__
-* Combat
-* Play
-  * 2 Cards per Turn
-  * Discard Not Played
-* No Combat Resource
-* Level Up Played
-* Attack Phase
-  * All Active Attack (Self, Enemy)
+* Combat 
+  * Same Screen
+  * Real Time
+  * Move, Jump, Ability
+* Double Jump
 * Crafting?
 *
 * __Social__
@@ -34,26 +31,43 @@ Patterns
 * Friends?
 *
 * __Progress__
-* Level?
-* Classes?
+* XP Level
+* Classes
+  * Warrior
+  * Engineer
+  * Stalker
+  * Medic
+  * Esper
+  * Spellslinger
+* Faction and Race
+  * Exiles
+    * Granok
+    * Mordesh
+    * Human
+    * Aurin
+  * Dominion
+    * Mechari
+    * Draken
+    * Cassian
+    * Chua
+* Path
+  * Explorer
+  * Scientists
+  * Settler
+  * Soldier
 * Skills?
-* Abilities?
-* Quests?
-* Achievements?
+* Abilities
+* Quests
+* Achievements
 *
 * __Motivators__
-* Daily Rewards
-  * Login, 1 Win, 3 Wins
-  * Reward: Silver, Booster, Ticket
+* Rewards?
 * Time Limited?
 *
 * __Payment__
 * Shop?
 * VIP for Paying?
 * Pay To Use?
-* Booster
-  * Size: 6
-  * Guaranteed: 1 Rare
 *
 * __World__
 * Location
@@ -63,20 +77,15 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: Silver
-  * Premium: Gold
-* Card Types
-  * Creature
-  * Spell
-* Card Rarity
-  * Name: Common, Rare, Heroic, Legendary
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__
 
 New Ideas
 ===============================================================================
-* _Patterns that appear new_
+* Path: additional challenges, based on Bartles test
 
 Lists 
 ===============================================================================

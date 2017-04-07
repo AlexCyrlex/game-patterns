@@ -1,4 +1,4 @@
-SolForge 
+Guild Quest 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,25 +8,33 @@ SolForge
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.11 12:20:37
+  * Started: 2017.03.04 09:51:57
   * Last Update:
-  * Closed: 2017.01.31 (then reopened http://solforgegame.com/news/solforge-servers-update/ ) 
+  * Closed: still active 
 
 Patterns 
 ===============================================================================
 * Theme: Fantasy
-* CCG
+* Idle, Strategy
+* Similar
+  * Runescape Idle
+    * Levelup nodes in different locations
+    * Combat (red) and non-combat (blue) nodes
+  * Crusaders of Lost Idols
+    * Need to chose which units to use
+    * Chests that drop gold or cards
+  * AdVenture Communist
+    * Big reward on cooldown (4h)
+    * Partial reset
 *
 * __Actions__
 * Combat
-* Play
-  * 2 Cards per Turn
-  * Discard Not Played
-* No Combat Resource
-* Level Up Played
-* Attack Phase
-  * All Active Attack (Self, Enemy)
-* Crafting?
+  * Skip
+* Upgrade Node
+* Crafting
+  * Recipe: Try and Discover
+  * Components: 4 * Duplicate Cards
+  * Cost: Gold
 *
 * __Social__
 * PVP?
@@ -42,35 +50,34 @@ Patterns
 * Achievements?
 *
 * __Motivators__
-* Daily Rewards
-  * Login, 1 Win, 3 Wins
-  * Reward: Silver, Booster, Ticket
+* Rewards?
 * Time Limited?
 *
 * __Payment__
 * Shop?
 * VIP for Paying?
 * Pay To Use?
-* Booster
-  * Size: 6
-  * Guaranteed: 1 Rare
 *
 * __World__
 * Location
+* Linear Nodes
+* Node
+  * Spawn
+  * Quest
+  * Boss
 * NPC? 
 * Map?
 * Travel?
 *
 * __Things__
 * Currency
-  * Common: Silver
-  * Premium: Gold
-* Card Types
-  * Creature
-  * Spell
-* Card Rarity
-  * Name: Common, Rare, Heroic, Legendary
+  * Common
+  * Premium
 * Equipment
+  * Card
+    * For: Unit, Quest
+  * Unit
+    * For: Location
 *
 * __Implementation__
 

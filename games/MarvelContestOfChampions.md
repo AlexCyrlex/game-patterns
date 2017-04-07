@@ -1,11 +1,11 @@
 Marvel Contest of Champions 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links:
+* Info Links: http://marvel-contestofchampions.wikia.com/wiki/Main_Page - http://marvel-contest-of-champions.wikia.com/wiki/Marvel_Contest_Of_Champions_Wiki - http://www.gamefaqs.com/iphone/822336-marvel-contest-of-champions - http://community.kabam.com/forums/forumdisplay.php?1239-Marvel-Contest-of-Champions - http://hook.github.io/champions/#/roster
 * Screenshots:
 * Videos:
 * Created by: Kabam
-* Tech: Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
+* Tech: Native (Android, iOS)
 * Dates:
   * Public Access: 
   * Started: 2016.09.24 18:22:15
@@ -31,6 +31,20 @@ Patterns
   * New Screen
   * Real Time
   * Dash (Forward), Dodge (Back), Light Attack, Medium Attack, Heavy Attack, Block, Special Ability
+* Game Modes
+  * Quest
+    * Team: 5
+    * Order: Any
+    * Keep: HP
+  * Alliance Quest
+    * Team: 3
+    * Order: Any
+    * Keep: HP
+  * Arena
+    * Team: 3
+    * Order: 1-to-1, Fixed
+  * 1v1
+    * Team: 1
 * Crafting?
 *
 * __Social__
@@ -50,10 +64,16 @@ Patterns
 *
 * __Motivators__
 * Energy
-  * Max: 17 + 2 * lvl ? // 17, 19, 21,22,23
+  * Max: 16 + lvl + [lvl > 1] + [lvl > 2] // 17 + 2 * lvl ? // 17, 19, 21,22,23
   * Recover: 1 / 6 min
+* Energy
+  * For: Alliance Quest
+  * Max: 5
+  * Recover: 1 / 1h
 * Timed Reward: 4h
 * Daily Reward
+* Monthly Reward
+  * Full: 28d
 * Time Limited?
 *
 * __Payment__

@@ -1,4 +1,4 @@
-SolForge 
+UFO Online: Invasion 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,24 +8,24 @@ SolForge
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.11 12:20:37
+  * Started: 2017.03.07 00:32:23
   * Last Update:
-  * Closed: 2017.01.31 (then reopened http://solforgegame.com/news/solforge-servers-update/ ) 
+  * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy
-* CCG
+* Theme: Post-Apoc
+* Tactical RPG
+* Similar
+  * XCOM
+  * Fallout, Arcanum
 *
 * __Actions__
 * Combat
-* Play
-  * 2 Cards per Turn
-  * Discard Not Played
-* No Combat Resource
-* Level Up Played
-* Attack Phase
-  * All Active Attack (Self, Enemy)
+  * Same Screen
+  * Turns: Team, Unit
+  * Move, Sit/Stand, Fire Weapon, Reload, Switch Weapon, Pick Loot
+* Action Points
 * Crafting?
 *
 * __Social__
@@ -34,42 +34,41 @@ Patterns
 * Friends?
 *
 * __Progress__
-* Level?
-* Classes?
-* Skills?
+* XP Level
+* No Classes
+* Skills
+  * Gain: Level?
+  * Train: XP
 * Abilities?
-* Quests?
-* Achievements?
+* Quests
+* Achievements
 *
 * __Motivators__
-* Daily Rewards
-  * Login, 1 Win, 3 Wins
-  * Reward: Silver, Booster, Ticket
+* Rewards?
 * Time Limited?
 *
 * __Payment__
 * Shop?
 * VIP for Paying?
 * Pay To Use?
-* Booster
-  * Size: 6
-  * Guaranteed: 1 Rare
 *
 * __World__
 * Location
-* NPC? 
+* NPC
+  * UFOlogist
+  * Profiteer Chesnok: Shop
+  * Doctor Khatov
+    * Drug addict
+  * Engineer Petrovich
+  * Catherine
+    * Mutated arm 
 * Map?
 * Travel?
 *
 * __Things__
 * Currency
-  * Common: Silver
-  * Premium: Gold
-* Card Types
-  * Creature
-  * Spell
-* Card Rarity
-  * Name: Common, Rare, Heroic, Legendary
+  * Common
+  * Premium
 * Equipment
 *
 * __Implementation__

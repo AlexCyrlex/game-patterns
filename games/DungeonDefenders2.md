@@ -1,4 +1,4 @@
-SolForge 
+Dungeon Defenders II 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,54 +8,59 @@ SolForge
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.11 12:20:37
+  * Started: 2016.12.05 20:55:26
   * Last Update:
-  * Closed: 2017.01.31 (then reopened http://solforgegame.com/news/solforge-servers-update/ ) 
+  * Closed: still active 
 
 Patterns 
 ===============================================================================
 * Theme: Fantasy
-* CCG
+* Tower Defence, TPS
 *
 * __Actions__
 * Combat
-* Play
-  * 2 Cards per Turn
-  * Discard Not Played
-* No Combat Resource
-* Level Up Played
-* Attack Phase
-  * All Active Attack (Self, Enemy)
+   * Same Screen
+   * Real Time
+   * Move, Jump, Attack, Ability, Place Defense
 * Crafting?
 *
 * __Social__
+* Coop PVE
 * PVP?
 * Guild?
 * Friends?
 *
 * __Progress__
-* Level?
-* Classes?
+* XP Level
+* Classes
+  * Apprentice
+  * Squire
+  * Huntress
+  * Monk
+  * Abyss Lord
+  * Series EV2
+  * Gunwitch
+  * Lavamancer
+  * Mystic
+  * Dryad
+* Unlock Classes
 * Skills?
-* Abilities?
+* Abilities
 * Quests?
 * Achievements?
 *
 * __Motivators__
-* Daily Rewards
-  * Login, 1 Win, 3 Wins
-  * Reward: Silver, Booster, Ticket
+* Rewards?
 * Time Limited?
 *
 * __Payment__
 * Shop?
 * VIP for Paying?
 * Pay To Use?
-* Booster
-  * Size: 6
-  * Guaranteed: 1 Rare
 *
 * __World__
+* Linear Campaign
+  * Hierarchy: Act, Session
 * Location
 * NPC? 
 * Map?
@@ -63,14 +68,14 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: Silver
-  * Premium: Gold
-* Card Types
-  * Creature
-  * Spell
-* Card Rarity
-  * Name: Common, Rare, Heroic, Legendary
+  * Common
+  * Premium
 * Equipment
+  * Weapon *2, Helmet, Armor, Boots, Gloves, Relic, Pet
+* Inventory
+  * Bag: 8*4
+    * Free: 4
+  * Pet: 8*2
 *
 * __Implementation__
 
