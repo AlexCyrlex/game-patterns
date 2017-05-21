@@ -1,29 +1,31 @@
-Fallout Shelter 
+Crash Force 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://fallout.wikia.com/wiki/Fallout_Shelter - https://www.reddit.com/r/foshelter/ - https://www.reddit.com/r/fallout_shelter/ - http://fallout.gamepedia.com/Fallout_Shelter_objectives - http://www.leveling-guides.com/fallout-shelter-objectives-guide/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2017.03.30 16:46:48
+  * Started:
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fallout
-* Simulator
+* Theme: Sci-Fi
+* Similar
+  * Descent
+    * Shooter with vehicles 
+* _Genre RPG, Strategy, Action, Shooter_
 *
 * __Actions__
 * Combat
-  * Auto
-* Build
-  * Slots
-* Crafting
-* Breeding
+  * Same Screen
+  * Real Time
+  * Move, Sprint, Jump, Shoot, Ability
+* Crafting?
 *
 * __Social__
 * PVP?
@@ -31,8 +33,7 @@ Patterns
 * Friends?
 *
 * __Progress__
-* XP Level
-  * For: Dwellers
+* Level?
 * Classes?
 * Skills?
 * Abilities?
@@ -40,7 +41,7 @@ Patterns
 * Achievements?
 *
 * __Motivators__
-* Daily Reward
+* Rewards?
 * Time Limited?
 *
 * __Payment__
@@ -58,10 +59,7 @@ Patterns
 * Currency
   * Common
   * Premium
-* Resources
-  * Power, Food, Water
 * Equipment
-  * Outfit, Weapon
 *
 * __Implementation__
 

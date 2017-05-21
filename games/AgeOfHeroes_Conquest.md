@@ -1,29 +1,29 @@
-Fallout Shelter 
+Age of Heroes: Conquest 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://fallout.wikia.com/wiki/Fallout_Shelter - https://www.reddit.com/r/foshelter/ - https://www.reddit.com/r/fallout_shelter/ - http://fallout.gamepedia.com/Fallout_Shelter_objectives - http://www.leveling-guides.com/fallout-shelter-objectives-guide/
+* Info Links:
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2017.03.30 16:46:48
+  * Started: 2017.04.28 23:30:56
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fallout
-* Simulator
+* Theme: Fantasy
+* Tactical Combat
 *
 * __Actions__
 * Combat
-  * Auto
-* Build
-  * Slots
-* Crafting
-* Breeding
+  * New Screen
+  * Turns: All, Unit
+  * Use Ability
+  * Manual
+* Crafting?
 *
 * __Social__
 * PVP?
@@ -32,15 +32,23 @@ Patterns
 *
 * __Progress__
 * XP Level
-  * For: Dwellers
+* Pards: Hero
 * Classes?
 * Skills?
-* Abilities?
-* Quests?
+* Abilities
+* Quests
 * Achievements?
+* Difficulty
+  * For: Battle
+  * Normal, Hard, Heroic
 *
 * __Motivators__
-* Daily Reward
+* New Player Reward
+  * Max: 7d
+  * Miss: Keep
+* Monthly Reward
+  * Max: All
+  * After New Player Reward
 * Time Limited?
 *
 * __Payment__
@@ -58,10 +66,7 @@ Patterns
 * Currency
   * Common
   * Premium
-* Resources
-  * Power, Food, Water
 * Equipment
-  * Outfit, Weapon
 *
 * __Implementation__
 
