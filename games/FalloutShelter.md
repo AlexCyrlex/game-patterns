@@ -1,7 +1,7 @@
 Fallout Shelter 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://fallout.wikia.com/wiki/Fallout_Shelter - https://www.reddit.com/r/foshelter/ - https://www.reddit.com/r/fallout_shelter/ - http://fallout.gamepedia.com/Fallout_Shelter_objectives - http://www.leveling-guides.com/fallout-shelter-objectives-guide/
+* Info Links: http://fallout.wikia.com/wiki/Fallout_Shelter - https://www.reddit.com/r/foshelter/ - https://www.reddit.com/r/fallout_shelter/ - http://fallout.gamepedia.com/Fallout_Shelter_objectives - http://www.leveling-guides.com/fallout-shelter-objectives-guide/ - http://gamemob.com/guides/fallout-shelter-tips-and-tricks-for-beginner-overseers/
 * Screenshots:
 * Videos:
 * Created by:

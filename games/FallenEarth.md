@@ -1,52 +1,51 @@
-Gems of War 
+Fallen Earth 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://community.gemsofwar.com/t/troop-hunting-for-events/22795
+* Info Links: https://www.reddit.com/r/fallenearth/ - http://fallenearth.wikia.com/wiki/Newbie_FAQ - http://www.alteredgamer.com/fallen-earth/62091-ballistics-and-gun-crafting-starter-guide/ - http://forums.gamersfirst.com/forum/753-new-player-faqs-and-guides/ - http://planner.lecartel.fr/?toon=Character%20Name#370136416161416262624192010101BA0101C3C3A4950101C48275010101010101010101
 * Screenshots:
 * Videos:
 * Created by:
-* Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
+* Tech: Native (Windows)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.20 15:29:50
+  * Started: 2017.07.18 12:36:02
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy
-* Match 3
+* Theme: Post-Apoc
+* MMORPG, TPS
+* Similar: Fallout 4
+  * Start in bunker, then go out
+  * Prologue years before main part
+  * Bad guys tricked hero out of promised things
 *
 * __Actions__
 * Combat
-  * New Screen
-  * Turn
-  * Match, Ability
-* Match 3
-  * Row 4: More Gold, Extra Turn
-  * Row 5: Mana Surge
-* Collect Units
-  * Quest Rewards, Craft?
-* Crafting?
+  * Same Screen
+  * Real Time
+  * Move, Jump, Crouch, Prone, Attack, Ability
+* Gather, Craft
+  * Req: Skill Lvl, Knowledge
+  * Cost: CD2
 *
 * __Social__
-* Async PVP
-* Weekly Ladder
+* PVP?
 * Guild?
 * Friends?
 *
 * __Progress__
 * XP Level
-* Classes
-* Skills?
-* Abilities?
+* Max Level: 55
+* No Classes
+* Skills
+* Abilities
 * Quests
-* Removed: Quest Cost
-  * 50 gold
-* Achievements?
+* Achievements
 *
 * __Motivators__
-* Daily Rewards
+* Rewards?
 * Time Limited?
 *
 * __Payment__
@@ -62,7 +61,7 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: Gold
+  * Common
   * Premium
 * Equipment
 *

@@ -1,52 +1,44 @@
-Gems of War 
+Name 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links: http://community.gemsofwar.com/t/troop-hunting-for-events/22795
+* Info Links: https://www.reddit.com/r/Undertale/
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.09.20 15:29:50
+  * Started: 2017.07.30 18:24:35
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy
-* Match 3
+* Theme: Fantasy 
+* RPG, Puzzle
 *
 * __Actions__
 * Combat
   * New Screen
   * Turn
-  * Match, Ability
-* Match 3
-  * Row 4: More Gold, Extra Turn
-  * Row 5: Mana Surge
-* Collect Units
-  * Quest Rewards, Craft?
+  * Attack, Action, Item, Mercy
 * Crafting?
 *
 * __Social__
-* Async PVP
-* Weekly Ladder
+* PVP?
 * Guild?
 * Friends?
 *
 * __Progress__
-* XP Level
-* Classes
+* Level?
+* Classes?
 * Skills?
 * Abilities?
-* Quests
-* Removed: Quest Cost
-  * 50 gold
+* Quests?
 * Achievements?
 *
 * __Motivators__
-* Daily Rewards
+* Rewards?
 * Time Limited?
 *
 * __Payment__
@@ -62,7 +54,7 @@ Patterns
 *
 * __Things__
 * Currency
-  * Common: Gold
+  * Common
   * Premium
 * Equipment
 *
