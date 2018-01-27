@@ -1,4 +1,4 @@
-WAKFU 
+R2 Online (Reign of Revolution) 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,20 +8,19 @@ WAKFU
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.07.31 16:11:15 - 2017.09.28 01:44:30
+  * Started: 2017.12.20 16:00:42
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy 
-* RPG
+* Theme: 
+* _Genre RPG, Strategy, Action, Shooter_
 *
 * __Actions__
 * Combat
-  * New Screen
-  * Turns: Team, Unit
 * Crafting?
+* Hunger
 *
 * __Social__
 * PVP?
@@ -31,14 +30,15 @@ Patterns
 * __Progress__
 * Level?
 * Classes
-  * Disembodied: tutorial
+  * Knight
+  * Ranger
+  * Mage
+  * Assassin
+  * Summoner
 * Skills?
 * Abilities?
 * Quests?
 * Achievements?
-* Multiple Characters
-  * Free: 5
-  * Max: 8
 *
 * __Motivators__
 * Rewards?

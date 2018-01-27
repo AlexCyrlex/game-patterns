@@ -1,4 +1,4 @@
-WAKFU 
+Twilight Town 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,19 +8,19 @@ WAKFU
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.07.31 16:11:15 - 2017.09.28 01:44:30
+  * Started: 2017.12.06 15:38:48
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy 
-* RPG
+* Theme: Mystery
+* Hidden Object
 *
 * __Actions__
-* Combat
-  * New Screen
-  * Turns: Team, Unit
+* Explore: Hidden Object
+* Build
+  * Fixed
 * Crafting?
 *
 * __Social__
@@ -29,18 +29,20 @@ Patterns
 * Friends?
 *
 * __Progress__
-* Level?
-* Classes
-  * Disembodied: tutorial
+* XP Level
+* Classes?
 * Skills?
 * Abilities?
 * Quests?
 * Achievements?
-* Multiple Characters
-  * Free: 5
-  * Max: 8
 *
 * __Motivators__
+* Energy
+  * Max: 20 + 10 * lvl
+  * Restore: 1/3m
+* CD
+  * For: Building Collect
+* Daily Quest: NPC
 * Rewards?
 * Time Limited?
 *

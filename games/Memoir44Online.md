@@ -1,4 +1,4 @@
-WAKFU 
+Memoir '44 Online 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,19 +8,24 @@ WAKFU
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.07.31 16:11:15 - 2017.09.28 01:44:30
+  * Started: 2017.09.06 23:07:48
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy 
-* RPG
+* Theme: WW2
+* Boardgame
 *
 * __Actions__
 * Combat
-  * New Screen
-  * Turns: Team, Unit
+* Phase
+  * Order
+  * Move 
+  * Battle
+  * Draw
+* Control Not All
+  * Who: Card Effect
 * Crafting?
 *
 * __Social__
@@ -30,15 +35,11 @@ Patterns
 *
 * __Progress__
 * Level?
-* Classes
-  * Disembodied: tutorial
+* Classes?
 * Skills?
 * Abilities?
 * Quests?
 * Achievements?
-* Multiple Characters
-  * Free: 5
-  * Max: 8
 *
 * __Motivators__
 * Rewards?

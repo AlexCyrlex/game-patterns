@@ -1,26 +1,24 @@
-WAKFU 
+Yu-Gi-Oh! Duel Links 
 ===============================================================================
 * Play Links: http://something.com
-* Info Links:
+* Info Links: https://www.youtube.com/watch?v=UtutLlUVZgg
 * Screenshots:
 * Videos:
 * Created by:
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.07.31 16:11:15 - 2017.09.28 01:44:30
+  * Started: 2017.11.17 17:10:26
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy 
-* RPG
+* Theme: 
+* CCG
 *
 * __Actions__
 * Combat
-  * New Screen
-  * Turns: Team, Unit
 * Crafting?
 *
 * __Social__
@@ -29,19 +27,29 @@ Patterns
 * Friends?
 *
 * __Progress__
-* Level?
-* Classes
-  * Disembodied: tutorial
+* XP Level
+  * For: Heroes
+* Unlock Heroes
+* Classes?
 * Skills?
 * Abilities?
 * Quests?
 * Achievements?
-* Multiple Characters
-  * Free: 5
-  * Max: 8
+* Unlock Features
+  * On: Stage
+  * 2: Shop
+  * 3: Gate (Duel Legendary), Legendary: Joey Wheeler, Gifts, Duel School
+  * 4: PVP Arena
+  * 5: Legendary: Tea Gardner
+  * 6: Gate Level 20, Auto-Duel, Unlock Mission: Tea Gardner, PVP Arena (KC Cup?)
+  * 7: Card Trader, Convert Card, Gate Key Exchange
+  * 8: Unlock Mission: ???, Quiz Level **
+  * 9: Vagabond
 *
 * __Motivators__
-* Rewards?
+* Daily Reward
+* Cumulative Days Reward
+  * 1, 30, 60, 100, 150, 200, 250, 300
 * Time Limited?
 *
 * __Payment__

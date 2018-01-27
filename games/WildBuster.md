@@ -1,4 +1,4 @@
-WAKFU 
+Wild Buster Heroes of Titan 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,19 +8,17 @@ WAKFU
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.07.31 16:11:15 - 2017.09.28 01:44:30
+  * Started: 2017.11.13 08:17:25
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy 
-* RPG
+* Theme: 
+* _Genre RPG, Strategy, Action, Shooter_
 *
 * __Actions__
 * Combat
-  * New Screen
-  * Turns: Team, Unit
 * Crafting?
 *
 * __Social__
@@ -31,14 +29,13 @@ Patterns
 * __Progress__
 * Level?
 * Classes
-  * Disembodied: tutorial
+* Factions
+* Choose Before Know
+  * Class
 * Skills?
 * Abilities?
 * Quests?
 * Achievements?
-* Multiple Characters
-  * Free: 5
-  * Max: 8
 *
 * __Motivators__
 * Rewards?

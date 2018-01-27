@@ -1,4 +1,4 @@
-WAKFU 
+UnnyWorld 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,19 +8,22 @@ WAKFU
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.07.31 16:11:15 - 2017.09.28 01:44:30
+  * Started: 2017.09.26 23:52:04
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy 
-* RPG
+* Theme: Space - Tiny Planets
+* Moba
 *
 * __Actions__
 * Combat
-  * New Screen
-  * Turns: Team, Unit
+* Gesture Ability
+* Build
+  * Hex Grid
+* Pards
+  * For: Spells
 * Crafting?
 *
 * __Social__
@@ -29,19 +32,24 @@ Patterns
 * Friends?
 *
 * __Progress__
-* Level?
-* Classes
-  * Disembodied: tutorial
+* Ugrade Level
+  * For: Building
+* Unlock Heroes
 * Skills?
 * Abilities?
 * Quests?
 * Achievements?
-* Multiple Characters
-  * Free: 5
-  * Max: 8
 *
 * __Motivators__
-* Rewards?
+* Daily Quest
+  * 1: Login
+    * CD: 3h
+  * 2: Arena Win, Invade Win
+    * CD: 6h
+  * 3: 500 Damage, 2000 Damage with Hero
+    * CD: 12h
+  * 4: 2 Arena Wins
+    * CD: 22h
 * Time Limited?
 *
 * __Payment__

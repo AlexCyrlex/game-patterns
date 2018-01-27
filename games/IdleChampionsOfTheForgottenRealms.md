@@ -1,4 +1,4 @@
-WAKFU 
+Idle Champions of the Forgotten Realms 
 ===============================================================================
 * Play Links: http://something.com
 * Info Links:
@@ -8,19 +8,21 @@ WAKFU
 * Tech: Flash HTML5/Canvas HTML Unity Native (Windows, Mac, Linux, Android, iOS, PS, XBox)
 * Dates:
   * Public Access: 
-  * Started: 2015.07.31 16:11:15 - 2017.09.28 01:44:30
+  * Started: 2017.08.18 20:01:54
   * Last Update:
   * Closed: still active 
 
 Patterns 
 ===============================================================================
-* Theme: Fantasy 
-* RPG
+* Theme: Forgotten Realms
+* Idle Clicker
+* Similar
+  * Crusaders of the Lost Idols
+    * diff
+      * IC: basic skill, CD + attack; C: DPS
 *
 * __Actions__
 * Combat
-  * New Screen
-  * Turns: Team, Unit
 * Crafting?
 *
 * __Social__
@@ -30,15 +32,11 @@ Patterns
 *
 * __Progress__
 * Level?
-* Classes
-  * Disembodied: tutorial
+* Classes?
 * Skills?
 * Abilities?
 * Quests?
 * Achievements?
-* Multiple Characters
-  * Free: 5
-  * Max: 8
 *
 * __Motivators__
 * Rewards?
